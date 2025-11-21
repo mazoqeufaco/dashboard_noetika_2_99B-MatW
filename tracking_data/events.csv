@@ -3607,250 +3607,709 @@ session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:26:19.873Z,tree,"{""ti
 session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:26:49.883Z,tree,"{""timeOnPage"": 30, ""totalTime"": 555}"
 session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:27:19.895Z,tree,"{""timeOnPage"": 30, ""totalTime"": 585}"
 session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:29:39.084Z,tree,"{""timeOnPage"": 139, ""totalTime"": 724}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:30:10.102Z,tree,"{""timeOnPage"": 31, ""totalTime"": 755}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:30:40.112Z,tree,"{""timeOnPage"": 30, ""totalTime"": 785}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:31:10.119Z,tree,"{""timeOnPage"": 30, ""totalTime"": 815}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:31:40.126Z,tree,"{""timeOnPage"": 30, ""totalTime"": 845}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:32:10.134Z,tree,"{""timeOnPage"": 30, ""totalTime"": 875}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:32:40.138Z,tree,"{""timeOnPage"": 30, ""totalTime"": 905}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:33:10.247Z,tree,"{""timeOnPage"": 30, ""totalTime"": 935}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:33:40.248Z,tree,"{""timeOnPage"": 30, ""totalTime"": 965}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:34:10.252Z,tree,"{""timeOnPage"": 30, ""totalTime"": 995}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:34:40.257Z,tree,"{""timeOnPage"": 30, ""totalTime"": 1025}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:35:10.269Z,tree,"{""timeOnPage"": 30, ""totalTime"": 1055}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:35:40.277Z,tree,"{""timeOnPage"": 30, ""totalTime"": 1085}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:36:10.466Z,tree,"{""timeOnPage"": 30, ""totalTime"": 1115}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:36:40.473Z,tree,"{""timeOnPage"": 30, ""totalTime"": 1145}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:37:10.477Z,tree,"{""timeOnPage"": 30, ""totalTime"": 1175}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:37:40.495Z,tree,"{""timeOnPage"": 30, ""totalTime"": 1205}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:38:10.495Z,tree,"{""timeOnPage"": 30, ""totalTime"": 1235}"
-session_1763434818055_6i8uvrqzq,page_visible,2025-11-18T04:38:19.033Z,tree,{}
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:38:21.018Z,tree,"{""timeOnPage"": 2, ""totalTime"": 1237}"
-session_1763434818055_6i8uvrqzq,page_hidden,2025-11-18T04:38:21.020Z,tree,{}
-session_1763434818055_6i8uvrqzq,page_visible,2025-11-18T04:38:21.801Z,tree,{}
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:38:29.505Z,tree,"{""timeOnPage"": 8, ""totalTime"": 1245}"
-session_1763434818055_6i8uvrqzq,page_hidden,2025-11-18T04:38:29.522Z,tree,{}
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:38:40.550Z,tree,"{""timeOnPage"": 11, ""totalTime"": 1256}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:39:10.553Z,tree,"{""timeOnPage"": 30, ""totalTime"": 1286}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:39:40.558Z,tree,"{""timeOnPage"": 30, ""totalTime"": 1316}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:40:10.561Z,tree,"{""timeOnPage"": 30, ""totalTime"": 1346}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:40:40.578Z,tree,"{""timeOnPage"": 30, ""totalTime"": 1376}"
-session_1763434818055_6i8uvrqzq,page_visible,2025-11-18T04:40:58.080Z,tree,{}
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:41:01.299Z,tree,"{""timeOnPage"": 3, ""totalTime"": 1379}"
-session_1763434818055_6i8uvrqzq,page_hidden,2025-11-18T04:41:01.302Z,tree,{}
-session_1763434818055_6i8uvrqzq,page_view,2025-11-18T04:41:09.088Z,podium,"{""page"": ""input""}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:41:10.586Z,tree,"{""timeOnPage"": 9, ""totalTime"": 1388}"
-session_1763434818055_6i8uvrqzq,button_click,2025-11-18T04:41:11.366Z,podium,"{""text"": ""Confirma"", ""id"": ""confirm"", ""classes"": ""primary""}"
-session_1763434818055_6i8uvrqzq,button_click,2025-11-18T04:41:12.793Z,podium,"{""text"": ""Ok"", ""id"": ""dlgOk"", ""classes"": ""primary""}"
-session_1763434818055_6i8uvrqzq,button_click,2025-11-18T04:41:14.676Z,ranking,"{""text"": ""Ranking completo"", ""id"": ""btnRanking"", ""classes"": ""ghost""}"
-session_1763434818055_6i8uvrqzq,button_click,2025-11-18T04:41:16.988Z,tree,"{""text"": ""\u00c1rvore de Solu\u00e7\u00f5es"", ""id"": ""btnTree"", ""classes"": ""ghost""}"
-session_1763434818055_6i8uvrqzq,scroll_depth,2025-11-18T04:41:19.101Z,tree,"{""depth"": 100}"
-session_1763434818055_6i8uvrqzq,location_updated,2025-11-18T04:41:20.190Z,tree,"{""ip"": ""127.0.0.1"", ""location"": {""city"": """", ""region"": """", ""country"": """", ""country_code"": """", ""latitude"": """", ""longitude"": """", ""timezone"": """"}}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:41:39.088Z,tree,"{""timeOnPage"": 30, ""totalTime"": 30}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:41:40.588Z,tree,"{""timeOnPage"": 30, ""totalTime"": 1418}"
-session_1763434818055_6i8uvrqzq,page_visible,2025-11-18T04:41:48.997Z,tree,{}
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:41:48.980Z,tree,"{""timeOnPage"": 10, ""totalTime"": 40}"
-session_1763434818055_6i8uvrqzq,page_hidden,2025-11-18T04:41:49.185Z,tree,{}
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:42:01.795Z,tree,"{""timeOnPage"": 13, ""totalTime"": 1431}"
-session_1763434818055_6i8uvrqzq,page_hidden,2025-11-18T04:42:01.798Z,tree,{}
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:42:09.649Z,tree,"{""timeOnPage"": 21, ""totalTime"": 61}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:42:10.593Z,tree,"{""timeOnPage"": 9, ""totalTime"": 1440}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:42:39.656Z,tree,"{""timeOnPage"": 30, ""totalTime"": 91}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:42:40.604Z,tree,"{""timeOnPage"": 30, ""totalTime"": 1470}"
-session_1763434818055_6i8uvrqzq,page_visible,2025-11-18T04:42:59.585Z,tree,{}
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:43:00.599Z,tree,"{""timeOnPage"": 1, ""totalTime"": 1471}"
-session_1763434818055_6i8uvrqzq,page_visible,2025-11-18T04:43:00.598Z,tree,{}
-session_1763434818055_6i8uvrqzq,page_hidden,2025-11-18T04:43:00.604Z,tree,{}
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:43:07.944Z,tree,"{""timeOnPage"": 7, ""totalTime"": 98}"
-session_1763434818055_6i8uvrqzq,page_hidden,2025-11-18T04:43:07.998Z,tree,{}
-session_1763434818055_6i8uvrqzq,page_visible,2025-11-18T04:43:09.111Z,tree,{}
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:43:09.664Z,tree,"{""timeOnPage"": 1, ""totalTime"": 98}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:43:10.609Z,tree,"{""timeOnPage"": 10, ""totalTime"": 1481}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:43:18.559Z,tree,"{""timeOnPage"": 9, ""totalTime"": 107}"
-session_1763434818055_6i8uvrqzq,page_hidden,2025-11-18T04:43:18.588Z,tree,{}
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:43:39.669Z,tree,"{""timeOnPage"": 21, ""totalTime"": 128}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:43:40.621Z,tree,"{""timeOnPage"": 30, ""totalTime"": 1511}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:44:09.940Z,tree,"{""timeOnPage"": 30, ""totalTime"": 159}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:44:10.631Z,tree,"{""timeOnPage"": 30, ""totalTime"": 1541}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:44:39.990Z,tree,"{""timeOnPage"": 30, ""totalTime"": 189}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:44:40.639Z,tree,"{""timeOnPage"": 30, ""totalTime"": 1571}"
-session_1763434818055_6i8uvrqzq,page_visible,2025-11-18T04:44:58.636Z,tree,{}
-session_1763434818055_6i8uvrqzq,page_visible,2025-11-18T04:44:58.646Z,tree,{}
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:44:59.673Z,tree,"{""timeOnPage"": 1, ""totalTime"": 1572}"
-session_1763434818055_6i8uvrqzq,page_hidden,2025-11-18T04:44:59.678Z,tree,{}
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:45:01.543Z,tree,"{""timeOnPage"": 3, ""totalTime"": 192}"
-session_1763434818055_6i8uvrqzq,session_end,2025-11-18T04:45:01.544Z,tree,"{""totalDuration"": 192, ""totalEvents"": 504}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:45:01.578Z,tree,"{""timeOnPage"": 0, ""totalTime"": 192}"
-session_1763434818055_6i8uvrqzq,page_hidden,2025-11-18T04:45:01.579Z,tree,{}
-session_1763434818055_6i8uvrqzq,page_view,2025-11-18T04:45:01.814Z,podium,"{""page"": ""input""}"
-session_1763434818055_6i8uvrqzq,button_click,2025-11-18T04:45:05.022Z,podium,"{""text"": ""Confirma"", ""id"": ""confirm"", ""classes"": ""primary""}"
-session_1763434818055_6i8uvrqzq,button_click,2025-11-18T04:45:05.949Z,podium,"{""text"": ""Ok"", ""id"": ""dlgOk"", ""classes"": ""primary""}"
-session_1763434818055_6i8uvrqzq,scroll_depth,2025-11-18T04:45:06.401Z,podium,"{""depth"": 100}"
-session_1763434818055_6i8uvrqzq,button_click,2025-11-18T04:45:07.291Z,ranking,"{""text"": ""Ranking completo"", ""id"": ""btnRanking"", ""classes"": ""ghost""}"
-session_1763434818055_6i8uvrqzq,button_click,2025-11-18T04:45:09.211Z,tree,"{""text"": ""\u00c1rvore de Solu\u00e7\u00f5es"", ""id"": ""btnTree"", ""classes"": ""ghost""}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:45:10.651Z,tree,"{""timeOnPage"": 11, ""totalTime"": 1583}"
-session_1763434818055_6i8uvrqzq,location_updated,2025-11-18T04:45:12.913Z,tree,"{""ip"": ""127.0.0.1"", ""location"": {""city"": """", ""region"": """", ""country"": """", ""country_code"": """", ""latitude"": """", ""longitude"": """", ""timezone"": """"}}"
-session_1763434818055_6i8uvrqzq,button_click,2025-11-18T04:45:15.393Z,tree,"{""text"": ""Gerar relat\u00f3rio"", ""id"": ""btnGenerateReport"", ""classes"": ""ghost""}"
-session_1763434818055_6i8uvrqzq,button_click,2025-11-18T04:45:16.391Z,tree,"{""text"": ""Ok"", ""id"": ""reportConfirmOk"", ""classes"": ""primary""}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:45:21.796Z,tree,"{""timeOnPage"": 20, ""totalTime"": 20}"
-session_1763434818055_6i8uvrqzq,page_hidden,2025-11-18T04:45:21.807Z,tree,{}
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:45:31.911Z,tree,"{""timeOnPage"": 10, ""totalTime"": 30}"
-session_1763434818055_6i8uvrqzq,page_visible,2025-11-18T04:45:34.967Z,tree,{}
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:45:39.439Z,tree,"{""timeOnPage"": 4, ""totalTime"": 35}"
-session_1763434818055_6i8uvrqzq,page_hidden,2025-11-18T04:45:39.442Z,tree,{}
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:45:40.653Z,tree,"{""timeOnPage"": 30, ""totalTime"": 1613}"
-session_1763434818055_6i8uvrqzq,page_visible,2025-11-18T04:45:43.927Z,tree,{}
-session_1763434818055_6i8uvrqzq,page_visible,2025-11-18T04:45:46.343Z,tree,{}
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:45:51.682Z,tree,"{""timeOnPage"": 5, ""totalTime"": 1618}"
-session_1763434818055_6i8uvrqzq,page_hidden,2025-11-18T04:45:51.686Z,tree,{}
-session_1763434818055_6i8uvrqzq,triangle_interaction,2025-11-18T04:45:51.843Z,tree,"{""element"": ""canvas""}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:45:55.404Z,tree,"{""timeOnPage"": 11, ""totalTime"": 46}"
-session_1763434818055_6i8uvrqzq,page_hidden,2025-11-18T04:45:55.408Z,tree,{}
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:46:01.916Z,tree,"{""timeOnPage"": 7, ""totalTime"": 53}"
-session_1763434818055_6i8uvrqzq,page_visible,2025-11-18T04:46:05.628Z,tree,{}
-session_1763434818055_6i8uvrqzq,page_visible,2025-11-18T04:46:05.629Z,tree,{}
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:46:07.715Z,tree,"{""timeOnPage"": 2, ""totalTime"": 1621}"
-session_1763434818055_6i8uvrqzq,page_hidden,2025-11-18T04:46:07.718Z,tree,{}
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:46:10.660Z,tree,"{""timeOnPage"": 3, ""totalTime"": 1623}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:46:22.332Z,tree,"{""timeOnPage"": 17, ""totalTime"": 69}"
-session_1763434818055_6i8uvrqzq,page_hidden,2025-11-18T04:46:22.335Z,tree,{}
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:46:31.921Z,tree,"{""timeOnPage"": 10, ""totalTime"": 79}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:46:40.676Z,tree,"{""timeOnPage"": 30, ""totalTime"": 1653}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:47:01.928Z,tree,"{""timeOnPage"": 30, ""totalTime"": 109}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:47:10.682Z,tree,"{""timeOnPage"": 30, ""totalTime"": 1684}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:47:31.934Z,tree,"{""timeOnPage"": 30, ""totalTime"": 139}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:47:40.695Z,tree,"{""timeOnPage"": 30, ""totalTime"": 1714}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:48:01.941Z,tree,"{""timeOnPage"": 30, ""totalTime"": 169}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:48:10.852Z,tree,"{""timeOnPage"": 30, ""totalTime"": 1744}"
-session_1763434818055_6i8uvrqzq,page_visible,2025-11-18T04:48:11.838Z,tree,{}
-session_1763434818055_6i8uvrqzq,page_visible,2025-11-18T04:48:11.913Z,tree,{}
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:48:16.000Z,tree,"{""timeOnPage"": 4, ""totalTime"": 1748}"
-session_1763434818055_6i8uvrqzq,page_hidden,2025-11-18T04:48:16.005Z,tree,{}
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:48:17.537Z,tree,"{""timeOnPage"": 6, ""totalTime"": 174}"
-session_1763434818055_6i8uvrqzq,session_end,2025-11-18T04:48:17.539Z,tree,"{""totalDuration"": 174, ""totalEvents"": 535}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:48:17.561Z,tree,"{""timeOnPage"": 0, ""totalTime"": 175}"
-session_1763434818055_6i8uvrqzq,page_hidden,2025-11-18T04:48:17.564Z,tree,{}
-session_1763434818055_6i8uvrqzq,page_view,2025-11-18T04:48:17.656Z,podium,"{""page"": ""input""}"
-session_1763434818055_6i8uvrqzq,button_click,2025-11-18T04:48:21.257Z,podium,"{""text"": ""Confirma"", ""id"": ""confirm"", ""classes"": ""primary""}"
-session_1763434818055_6i8uvrqzq,button_click,2025-11-18T04:48:22.313Z,podium,"{""text"": ""Ok"", ""id"": ""dlgOk"", ""classes"": ""primary""}"
-session_1763434818055_6i8uvrqzq,location_updated,2025-11-18T04:48:28.834Z,podium,"{""ip"": ""127.0.0.1"", ""location"": {""city"": """", ""region"": """", ""country"": """", ""country_code"": """", ""latitude"": """", ""longitude"": """", ""timezone"": """"}}"
-session_1763434818055_6i8uvrqzq,button_click,2025-11-18T04:48:29.486Z,podium,"{""text"": ""\u00d7"", ""id"": ""closeModal"", ""classes"": ""modal-close""}"
-session_1763434818055_6i8uvrqzq,button_click,2025-11-18T04:48:30.211Z,ranking,"{""text"": ""Ranking completo"", ""id"": ""btnRanking"", ""classes"": ""ghost""}"
-session_1763434818055_6i8uvrqzq,scroll_depth,2025-11-18T04:48:31.129Z,ranking,"{""depth"": 100}"
-session_1763434818055_6i8uvrqzq,button_click,2025-11-18T04:48:32.319Z,ranking,"{""text"": ""Gerar relat\u00f3rio"", ""id"": ""btnGenerateReport"", ""classes"": ""ghost""}"
-session_1763434818055_6i8uvrqzq,button_click,2025-11-18T04:48:33.958Z,ranking,"{""text"": ""Cancelar"", ""id"": ""reportConfirmCancel"", ""classes"": """"}"
-session_1763434818055_6i8uvrqzq,button_click,2025-11-18T04:48:34.811Z,tree,"{""text"": ""\u00c1rvore de Solu\u00e7\u00f5es"", ""id"": ""btnTree"", ""classes"": ""ghost""}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:48:40.892Z,tree,"{""timeOnPage"": 25, ""totalTime"": 1773}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:48:47.799Z,tree,"{""timeOnPage"": 30, ""totalTime"": 30}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:49:09.712Z,tree,"{""timeOnPage"": 22, ""totalTime"": 52}"
-session_1763434818055_6i8uvrqzq,page_hidden,2025-11-18T04:49:09.716Z,tree,{}
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:49:11.848Z,tree,"{""timeOnPage"": 31, ""totalTime"": 1804}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:49:17.810Z,tree,"{""timeOnPage"": 8, ""totalTime"": 60}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:49:41.855Z,tree,"{""timeOnPage"": 30, ""totalTime"": 1834}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:49:47.875Z,tree,"{""timeOnPage"": 30, ""totalTime"": 90}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:50:11.863Z,tree,"{""timeOnPage"": 30, ""totalTime"": 1864}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:50:17.879Z,tree,"{""timeOnPage"": 30, ""totalTime"": 120}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:50:41.877Z,tree,"{""timeOnPage"": 30, ""totalTime"": 1894}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:50:47.882Z,tree,"{""timeOnPage"": 30, ""totalTime"": 150}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:51:11.890Z,tree,"{""timeOnPage"": 30, ""totalTime"": 1924}"
-session_1763434818055_6i8uvrqzq,page_visible,2025-11-18T04:51:17.563Z,tree,{}
-session_1763434818055_6i8uvrqzq,page_visible,2025-11-18T04:51:17.567Z,tree,{}
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:51:17.987Z,tree,"{""timeOnPage"": 0, ""totalTime"": 151}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:51:18.590Z,tree,"{""timeOnPage"": 1, ""totalTime"": 1925}"
-session_1763434818055_6i8uvrqzq,page_hidden,2025-11-18T04:51:18.592Z,tree,{}
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:51:22.575Z,tree,"{""timeOnPage"": 5, ""totalTime"": 155}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:51:22.601Z,tree,"{""timeOnPage"": 0, ""totalTime"": 155}"
-session_1763434818055_6i8uvrqzq,page_hidden,2025-11-18T04:51:22.603Z,tree,{}
-session_1763434818055_6i8uvrqzq,page_view,2025-11-18T04:51:22.728Z,podium,"{""page"": ""input""}"
-session_1763434818055_6i8uvrqzq,button_click,2025-11-18T04:51:27.904Z,podium,"{""text"": ""Confirma"", ""id"": ""confirm"", ""classes"": ""primary""}"
-session_1763434818055_6i8uvrqzq,button_click,2025-11-18T04:51:28.938Z,podium,"{""text"": ""Ok"", ""id"": ""dlgOk"", ""classes"": ""primary""}"
-session_1763434818055_6i8uvrqzq,scroll_depth,2025-11-18T04:51:29.538Z,podium,"{""depth"": 100}"
-session_1763434818055_6i8uvrqzq,button_click,2025-11-18T04:51:30.306Z,ranking,"{""text"": ""Ranking completo"", ""id"": ""btnRanking"", ""classes"": ""ghost""}"
-session_1763434818055_6i8uvrqzq,button_click,2025-11-18T04:51:32.468Z,tree,"{""text"": ""\u00c1rvore de Solu\u00e7\u00f5es"", ""id"": ""btnTree"", ""classes"": ""ghost""}"
-session_1763434818055_6i8uvrqzq,location_updated,2025-11-18T04:51:33.823Z,tree,"{""ip"": ""127.0.0.1"", ""location"": {""city"": """", ""region"": """", ""country"": """", ""country_code"": """", ""latitude"": """", ""longitude"": """", ""timezone"": """"}}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:51:41.893Z,tree,"{""timeOnPage"": 23, ""totalTime"": 1948}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:51:43.141Z,tree,"{""timeOnPage"": 20, ""totalTime"": 20}"
-session_1763434818055_6i8uvrqzq,session_end,2025-11-18T04:51:43.145Z,tree,"{""totalDuration"": 20, ""totalEvents"": 567}"
-session_1763434818055_6i8uvrqzq,page_visible,2025-11-18T04:51:47.487Z,tree,{}
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:51:53.545Z,tree,"{""timeOnPage"": 6, ""totalTime"": 1954}"
-session_1763434818055_6i8uvrqzq,page_hidden,2025-11-18T04:51:53.548Z,tree,{}
-session_1763434818055_6i8uvrqzq,page_view,2025-11-18T04:51:55.165Z,podium,"{""page"": ""input""}"
-session_1763434818055_6i8uvrqzq,button_click,2025-11-18T04:51:57.605Z,podium,"{""text"": ""Confirma"", ""id"": ""confirm"", ""classes"": ""primary""}"
-session_1763434818055_6i8uvrqzq,button_click,2025-11-18T04:51:58.558Z,podium,"{""text"": ""Ok"", ""id"": ""dlgOk"", ""classes"": ""primary""}"
-session_1763434818055_6i8uvrqzq,scroll_depth,2025-11-18T04:51:59.088Z,podium,"{""depth"": 100}"
-session_1763434818055_6i8uvrqzq,button_click,2025-11-18T04:52:00.282Z,ranking,"{""text"": ""Ranking completo"", ""id"": ""btnRanking"", ""classes"": ""ghost""}"
-session_1763434818055_6i8uvrqzq,button_click,2025-11-18T04:52:02.395Z,tree,"{""text"": ""\u00c1rvore de Solu\u00e7\u00f5es"", ""id"": ""btnTree"", ""classes"": ""ghost""}"
-session_1763434818055_6i8uvrqzq,location_updated,2025-11-18T04:52:06.278Z,tree,"{""ip"": ""127.0.0.1"", ""location"": {""city"": """", ""region"": """", ""country"": """", ""country_code"": """", ""latitude"": """", ""longitude"": """", ""timezone"": """"}}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:52:11.899Z,tree,"{""timeOnPage"": 18, ""totalTime"": 1972}"
-session_1763434818055_6i8uvrqzq,page_visible,2025-11-18T04:52:20.985Z,tree,{}
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:52:21.860Z,tree,"{""timeOnPage"": 27, ""totalTime"": 27}"
-session_1763434818055_6i8uvrqzq,page_hidden,2025-11-18T04:52:21.862Z,tree,{}
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:52:22.885Z,tree,"{""timeOnPage"": 2, ""totalTime"": 1974}"
-session_1763434818055_6i8uvrqzq,page_hidden,2025-11-18T04:52:22.888Z,tree,{}
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:52:25.161Z,tree,"{""timeOnPage"": 3, ""totalTime"": 30}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:52:41.907Z,tree,"{""timeOnPage"": 19, ""totalTime"": 1993}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:52:55.168Z,tree,"{""timeOnPage"": 30, ""totalTime"": 60}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:53:11.910Z,tree,"{""timeOnPage"": 30, ""totalTime"": 2023}"
-session_1763434818055_6i8uvrqzq,page_visible,2025-11-18T04:53:21.147Z,tree,{}
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:53:22.233Z,tree,"{""timeOnPage"": 1, ""totalTime"": 2024}"
-session_1763434818055_6i8uvrqzq,page_hidden,2025-11-18T04:53:22.236Z,tree,{}
-session_1763434818055_6i8uvrqzq,page_visible,2025-11-18T04:53:22.235Z,tree,{}
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:53:23.508Z,tree,"{""timeOnPage"": 1, ""totalTime"": 61}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:53:23.539Z,tree,"{""timeOnPage"": 0, ""totalTime"": 61}"
-session_1763434818055_6i8uvrqzq,page_hidden,2025-11-18T04:53:23.544Z,tree,{}
-session_1763434818055_6i8uvrqzq,page_view,2025-11-18T04:53:23.633Z,podium,"{""page"": ""input""}"
-session_1763434818055_6i8uvrqzq,button_click,2025-11-18T04:53:26.477Z,podium,"{""text"": ""Confirma"", ""id"": ""confirm"", ""classes"": ""primary""}"
-session_1763434818055_6i8uvrqzq,button_click,2025-11-18T04:53:27.726Z,podium,"{""text"": ""Ok"", ""id"": ""dlgOk"", ""classes"": ""primary""}"
-session_1763434818055_6i8uvrqzq,scroll_depth,2025-11-18T04:53:28.198Z,podium,"{""depth"": 100}"
-session_1763434818055_6i8uvrqzq,button_click,2025-11-18T04:53:29.275Z,ranking,"{""text"": ""Ranking completo"", ""id"": ""btnRanking"", ""classes"": ""ghost""}"
-session_1763434818055_6i8uvrqzq,button_click,2025-11-18T04:53:31.226Z,tree,"{""text"": ""\u00c1rvore de Solu\u00e7\u00f5es"", ""id"": ""btnTree"", ""classes"": ""ghost""}"
-session_1763434818055_6i8uvrqzq,location_updated,2025-11-18T04:53:34.748Z,tree,"{""ip"": ""127.0.0.1"", ""location"": {""city"": """", ""region"": """", ""country"": """", ""country_code"": """", ""latitude"": """", ""longitude"": """", ""timezone"": """"}}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:53:41.921Z,tree,"{""timeOnPage"": 20, ""totalTime"": 2044}"
-session_1763434818055_6i8uvrqzq,page_hidden,2025-11-18T04:53:52.887Z,tree,{}
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:53:52.884Z,tree,"{""timeOnPage"": 29, ""totalTime"": 29}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:53:53.891Z,tree,"{""timeOnPage"": 1, ""totalTime"": 30}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:54:11.924Z,tree,"{""timeOnPage"": 30, ""totalTime"": 2074}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:54:24.043Z,tree,"{""timeOnPage"": 30, ""totalTime"": 60}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:54:41.936Z,tree,"{""timeOnPage"": 30, ""totalTime"": 2104}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:54:56.982Z,tree,"{""timeOnPage"": 33, ""totalTime"": 93}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:55:11.947Z,tree,"{""timeOnPage"": 30, ""totalTime"": 2134}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:55:26.991Z,tree,"{""timeOnPage"": 30, ""totalTime"": 123}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:55:41.955Z,tree,"{""timeOnPage"": 30, ""totalTime"": 2164}"
-session_1763434818055_6i8uvrqzq,page_visible,2025-11-18T04:55:42.425Z,tree,{}
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:55:43.154Z,tree,"{""timeOnPage"": 1, ""totalTime"": 2165}"
-session_1763434818055_6i8uvrqzq,page_hidden,2025-11-18T04:55:43.157Z,tree,{}
-session_1763434818055_6i8uvrqzq,page_visible,2025-11-18T04:55:43.153Z,tree,{}
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:55:44.319Z,tree,"{""timeOnPage"": 1, ""totalTime"": 125}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:55:44.340Z,tree,"{""timeOnPage"": 0, ""totalTime"": 125}"
-session_1763434818055_6i8uvrqzq,page_hidden,2025-11-18T04:55:44.343Z,tree,{}
-session_1763434818055_6i8uvrqzq,page_view,2025-11-18T04:55:44.424Z,podium,"{""page"": ""input""}"
-session_1763434818055_6i8uvrqzq,button_click,2025-11-18T04:55:46.490Z,podium,"{""text"": ""Ranking completo"", ""id"": ""btnRanking"", ""classes"": ""ghost""}"
-session_1763434818055_6i8uvrqzq,button_click,2025-11-18T04:55:47.230Z,podium,"{""text"": ""Confirma"", ""id"": ""confirm"", ""classes"": ""primary""}"
-session_1763434818055_6i8uvrqzq,button_click,2025-11-18T04:55:48.381Z,podium,"{""text"": ""Ok"", ""id"": ""dlgOk"", ""classes"": ""primary""}"
-session_1763434818055_6i8uvrqzq,button_click,2025-11-18T04:55:49.371Z,ranking,"{""text"": ""Ranking completo"", ""id"": ""btnRanking"", ""classes"": ""ghost""}"
-session_1763434818055_6i8uvrqzq,scroll_depth,2025-11-18T04:55:50.438Z,ranking,"{""depth"": 100}"
-session_1763434818055_6i8uvrqzq,button_click,2025-11-18T04:55:51.187Z,tree,"{""text"": ""\u00c1rvore de Solu\u00e7\u00f5es"", ""id"": ""btnTree"", ""classes"": ""ghost""}"
-session_1763434818055_6i8uvrqzq,location_updated,2025-11-18T04:55:55.513Z,tree,"{""ip"": ""127.0.0.1"", ""location"": {""city"": """", ""region"": """", ""country"": """", ""country_code"": """", ""latitude"": """", ""longitude"": """", ""timezone"": """"}}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:55:57.091Z,tree,"{""timeOnPage"": 13, ""totalTime"": 13}"
-session_1763434818055_6i8uvrqzq,session_end,2025-11-18T04:55:57.094Z,tree,"{""totalDuration"": 13, ""totalEvents"": 567}"
-session_1763434818055_6i8uvrqzq,page_visible,2025-11-18T04:56:01.285Z,tree,{}
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:56:07.229Z,tree,"{""timeOnPage"": 6, ""totalTime"": 2171}"
-session_1763434818055_6i8uvrqzq,page_hidden,2025-11-18T04:56:07.232Z,tree,{}
-session_1763434818055_6i8uvrqzq,page_view,2025-11-18T04:56:08.469Z,podium,"{""page"": ""input""}"
-session_1763434818055_6i8uvrqzq,button_click,2025-11-18T04:56:10.421Z,podium,"{""text"": ""Confirma"", ""id"": ""confirm"", ""classes"": ""primary""}"
-session_1763434818055_6i8uvrqzq,button_click,2025-11-18T04:56:11.292Z,podium,"{""text"": ""Ok"", ""id"": ""dlgOk"", ""classes"": ""primary""}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:56:11.961Z,tree,"{""timeOnPage"": 5, ""totalTime"": 2176}"
-session_1763434818055_6i8uvrqzq,scroll_depth,2025-11-18T04:56:12.052Z,podium,"{""depth"": 100}"
-session_1763434818055_6i8uvrqzq,button_click,2025-11-18T04:56:12.946Z,ranking,"{""text"": ""Ranking completo"", ""id"": ""btnRanking"", ""classes"": ""ghost""}"
-session_1763434818055_6i8uvrqzq,button_click,2025-11-18T04:56:14.827Z,tree,"{""text"": ""\u00c1rvore de Solu\u00e7\u00f5es"", ""id"": ""btnTree"", ""classes"": ""ghost""}"
-session_1763434818055_6i8uvrqzq,location_updated,2025-11-18T04:56:19.574Z,tree,"{""ip"": ""127.0.0.1"", ""location"": {""city"": """", ""region"": """", ""country"": """", ""country_code"": """", ""latitude"": """", ""longitude"": """", ""timezone"": """"}}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:56:24.245Z,tree,"{""timeOnPage"": 16, ""totalTime"": 16}"
-session_1763434818055_6i8uvrqzq,page_hidden,2025-11-18T04:56:24.248Z,tree,{}
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:56:38.579Z,tree,"{""timeOnPage"": 14, ""totalTime"": 30}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:56:42.320Z,tree,"{""timeOnPage"": 30, ""totalTime"": 2206}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:57:08.586Z,tree,"{""timeOnPage"": 30, ""totalTime"": 60}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:57:12.325Z,tree,"{""timeOnPage"": 30, ""totalTime"": 2236}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:57:38.636Z,tree,"{""timeOnPage"": 30, ""totalTime"": 90}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:57:42.336Z,tree,"{""timeOnPage"": 30, ""totalTime"": 2266}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:58:08.643Z,tree,"{""timeOnPage"": 30, ""totalTime"": 120}"
-session_1763434818055_6i8uvrqzq,time_update,2025-11-18T04:58:12.353Z,tree,"{""timeOnPage"": 30, ""totalTime"": 2296}"
+session_1763562864402_sad656gok,page_view,2025-11-19T15:47:15.912Z,podium,"{""page"": ""input""}"
+session_1763562864402_sad656gok,location_updated,2025-11-19T15:47:20.205Z,podium,"{""ip"": ""2602:fb54:7fe::"", ""location"": {""city"": ""New York City"", ""region"": ""New York"", ""country"": ""United States"", ""country_code"": ""US"", ""latitude"": 40.7143, ""longitude"": -74.006, ""timezone"": ""America/New_York""}}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T15:47:24.551Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T15:47:25.595Z,podium,"{""timeOnPage"": 1, ""totalTime"": 1}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T15:47:25.597Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T15:47:46.138Z,podium,"{""timeOnPage"": 21, ""totalTime"": 22}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T15:47:50.631Z,podium,{}
+session_1763562864402_sad656gok,page_hidden,2025-11-19T15:47:50.803Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T15:47:50.796Z,podium,"{""timeOnPage"": 0, ""totalTime"": 22}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T15:47:57.508Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T15:47:59.959Z,podium,"{""timeOnPage"": 2, ""totalTime"": 24}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T15:47:59.960Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T15:48:16.138Z,podium,"{""timeOnPage"": 16, ""totalTime"": 40}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T15:48:17.548Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T15:48:17.994Z,podium,"{""timeOnPage"": 0, ""totalTime"": 41}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T15:48:17.997Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T15:48:46.130Z,podium,"{""timeOnPage"": 28, ""totalTime"": 69}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T15:48:57.710Z,podium,{}
+session_1763562864402_sad656gok,page_hidden,2025-11-19T15:49:00.122Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T15:49:00.118Z,podium,"{""timeOnPage"": 2, ""totalTime"": 71}"
+session_1763562864402_sad656gok,time_update,2025-11-19T15:49:16.137Z,podium,"{""timeOnPage"": 16, ""totalTime"": 87}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T15:49:18.784Z,podium,{}
+session_1763562864402_sad656gok,page_hidden,2025-11-19T15:49:22.243Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T15:49:22.241Z,podium,"{""timeOnPage"": 3, ""totalTime"": 91}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T15:49:26.912Z,podium,{}
+session_1763562864402_sad656gok,page_hidden,2025-11-19T15:49:32.845Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T15:49:32.842Z,podium,"{""timeOnPage"": 6, ""totalTime"": 97}"
+session_1763562864402_sad656gok,time_update,2025-11-19T15:49:46.128Z,podium,"{""timeOnPage"": 13, ""totalTime"": 110}"
+session_1763562864402_sad656gok,time_update,2025-11-19T15:50:16.140Z,podium,"{""timeOnPage"": 30, ""totalTime"": 140}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T15:50:22.401Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T15:50:23.173Z,podium,"{""timeOnPage"": 1, ""totalTime"": 141}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T15:50:23.175Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T15:50:46.128Z,podium,"{""timeOnPage"": 23, ""totalTime"": 164}"
+session_1763562864402_sad656gok,time_update,2025-11-19T15:51:16.140Z,podium,"{""timeOnPage"": 30, ""totalTime"": 194}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T15:52:04.561Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T15:52:04.562Z,podium,"{""timeOnPage"": 0, ""totalTime"": 194}"
+session_1763562864402_sad656gok,time_update,2025-11-19T15:52:06.656Z,podium,"{""timeOnPage"": 2, ""totalTime"": 196}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T15:52:06.657Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T15:52:16.130Z,podium,"{""timeOnPage"": 9, ""totalTime"": 205}"
+session_1763562864402_sad656gok,time_update,2025-11-19T15:52:46.128Z,podium,"{""timeOnPage"": 30, ""totalTime"": 235}"
+session_1763562864402_sad656gok,time_update,2025-11-19T15:53:40.141Z,podium,"{""timeOnPage"": 54, ""totalTime"": 289}"
+session_1763562864402_sad656gok,time_update,2025-11-19T15:54:40.141Z,podium,"{""timeOnPage"": 60, ""totalTime"": 349}"
+session_1763562864402_sad656gok,time_update,2025-11-19T15:55:31.755Z,podium,"{""timeOnPage"": 0, ""totalTime"": 349}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T15:55:31.754Z,podium,{}
+session_1763562864402_sad656gok,page_hidden,2025-11-19T15:55:35.004Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T15:55:35.002Z,podium,"{""timeOnPage"": 3, ""totalTime"": 353}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T15:55:35.748Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T15:55:36.693Z,podium,"{""timeOnPage"": 1, ""totalTime"": 354}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T15:55:36.695Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T15:55:46.138Z,podium,"{""timeOnPage"": 9, ""totalTime"": 363}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T15:55:47.031Z,podium,{}
+session_1763562864402_sad656gok,page_hidden,2025-11-19T15:55:49.632Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T15:55:49.629Z,podium,"{""timeOnPage"": 3, ""totalTime"": 366}"
+session_1763562864402_sad656gok,time_update,2025-11-19T15:56:16.133Z,podium,"{""timeOnPage"": 27, ""totalTime"": 392}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T15:56:30.900Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T15:56:32.144Z,podium,"{""timeOnPage"": 1, ""totalTime"": 393}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T15:56:33.675Z,podium,{}
+session_1763562864402_sad656gok,page_hidden,2025-11-19T15:56:32.145Z,podium,{}
+session_1763562864402_sad656gok,scroll_depth,2025-11-19T15:56:35.165Z,podium,"{""depth"": 50}"
+session_1763562864402_sad656gok,scroll_depth,2025-11-19T15:56:35.300Z,podium,"{""depth"": 100}"
+session_1763562864402_sad656gok,input_focus,2025-11-19T15:56:36.182Z,podium,"{""id"": ""r"", ""value"": """"}"
+session_1763562864402_sad656gok,priority_change,2025-11-19T15:56:37.539Z,podium,"{""field"": ""r"", ""value"": 0.5}"
+session_1763562864402_sad656gok,input_focus,2025-11-19T15:56:37.612Z,podium,"{""id"": ""r"", ""value"": ""0.5""}"
+session_1763562864402_sad656gok,input_focus,2025-11-19T15:56:38.962Z,podium,"{""id"": ""g"", ""value"": ""0.5""}"
+session_1763562864402_sad656gok,priority_change,2025-11-19T15:56:38.917Z,podium,"{""field"": ""g"", ""value"": 0.5}"
+session_1763562864402_sad656gok,priority_change,2025-11-19T15:56:39.645Z,podium,"{""field"": ""b"", ""value"": 0.5}"
+session_1763562864402_sad656gok,input_focus,2025-11-19T15:56:39.714Z,podium,"{""id"": ""b"", ""value"": ""0.5""}"
+session_1763562864402_sad656gok,button_click,2025-11-19T15:56:41.395Z,podium,"{""text"": ""Confirma"", ""id"": ""confirm"", ""classes"": ""primary""}"
+session_1763562864402_sad656gok,time_update,2025-11-19T15:56:45.470Z,podium,"{""timeOnPage"": 12, ""totalTime"": 405}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T15:56:45.471Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T15:56:55.331Z,podium,"{""timeOnPage"": 5, ""totalTime"": 410}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T15:56:50.804Z,podium,{}
+session_1763562864402_sad656gok,button_click,2025-11-19T15:56:53.066Z,podium,"{""text"": ""Confirma"", ""id"": ""confirm"", ""classes"": ""primary""}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T15:56:55.335Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T15:56:46.125Z,podium,"{""timeOnPage"": 1, ""totalTime"": 406}"
+session_1763562864402_sad656gok,button_click,2025-11-19T15:57:05.098Z,podium,"{""text"": ""Confirma"", ""id"": ""confirm"", ""classes"": ""primary""}"
+session_1763562864402_sad656gok,time_update,2025-11-19T15:57:05.751Z,podium,"{""timeOnPage"": 2, ""totalTime"": 412}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T15:57:04.025Z,podium,{}
+session_1763562864402_sad656gok,page_hidden,2025-11-19T15:57:05.753Z,podium,{}
+session_1763562864402_sad656gok,page_visible,2025-11-19T15:57:07.021Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T15:57:11.236Z,podium,"{""timeOnPage"": 4, ""totalTime"": 416}"
+session_1763562864402_sad656gok,button_click,2025-11-19T15:57:09.986Z,podium,"{""text"": ""Ranking completo"", ""id"": ""btnRanking"", ""classes"": ""ghost""}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T15:57:11.239Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T15:57:16.139Z,podium,"{""timeOnPage"": 5, ""totalTime"": 421}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T15:57:32.950Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T15:57:33.083Z,podium,"{""timeOnPage"": 0, ""totalTime"": 421}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T15:57:33.086Z,podium,{}
+session_1763562864402_sad656gok,page_visible,2025-11-19T15:57:44.670Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T15:57:45.918Z,podium,"{""timeOnPage"": 1, ""totalTime"": 423}"
+session_1763562864402_sad656gok,time_update,2025-11-19T15:57:46.225Z,podium,"{""timeOnPage"": 0, ""totalTime"": 423}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T15:57:46.227Z,podium,{}
+session_1763562864402_sad656gok,page_visible,2025-11-19T15:57:48.317Z,podium,{}
+session_1763562864402_sad656gok,page_visible,2025-11-19T15:57:50.365Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T15:57:49.691Z,podium,"{""timeOnPage"": 1, ""totalTime"": 424}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T15:57:49.697Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T15:57:52.290Z,podium,"{""timeOnPage"": 2, ""totalTime"": 426}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T15:57:52.291Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T15:58:16.131Z,podium,"{""timeOnPage"": 24, ""totalTime"": 450}"
+session_1763562864402_sad656gok,time_update,2025-11-19T15:58:16.804Z,podium,"{""timeOnPage"": 0, ""totalTime"": 450}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T15:58:16.643Z,podium,{}
+session_1763562864402_sad656gok,page_hidden,2025-11-19T15:58:16.809Z,podium,{}
+session_1763562864402_sad656gok,page_visible,2025-11-19T15:58:32.039Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T15:58:40.665Z,podium,"{""timeOnPage"": 9, ""totalTime"": 459}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T15:58:40.667Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T15:58:46.128Z,podium,"{""timeOnPage"": 5, ""totalTime"": 464}"
+session_1763562864402_sad656gok,time_update,2025-11-19T15:59:16.127Z,podium,"{""timeOnPage"": 30, ""totalTime"": 494}"
+session_1763562864402_sad656gok,time_update,2025-11-19T16:00:33.621Z,podium,"{""timeOnPage"": 77, ""totalTime"": 572}"
+session_1763562864402_sad656gok,time_update,2025-11-19T16:00:46.136Z,podium,"{""timeOnPage"": 13, ""totalTime"": 584}"
+session_1763562864402_sad656gok,time_update,2025-11-19T16:01:16.130Z,podium,"{""timeOnPage"": 30, ""totalTime"": 614}"
+session_1763562864402_sad656gok,time_update,2025-11-19T16:02:40.135Z,podium,"{""timeOnPage"": 84, ""totalTime"": 698}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T16:03:07.280Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T16:03:07.283Z,podium,"{""timeOnPage"": 0, ""totalTime"": 698}"
+session_1763562864402_sad656gok,time_update,2025-11-19T16:03:07.676Z,podium,"{""timeOnPage"": 0, ""totalTime"": 699}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T16:03:07.678Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T16:03:16.131Z,podium,"{""timeOnPage"": 8, ""totalTime"": 707}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T16:03:29.948Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T16:03:30.381Z,podium,"{""timeOnPage"": 0, ""totalTime"": 708}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T16:03:30.383Z,podium,{}
+session_1763562864402_sad656gok,page_visible,2025-11-19T16:03:31.654Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T16:03:32.658Z,podium,"{""timeOnPage"": 1, ""totalTime"": 709}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T16:03:32.660Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T16:03:46.135Z,podium,"{""timeOnPage"": 13, ""totalTime"": 722}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T16:04:00.026Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T16:04:01.686Z,podium,"{""timeOnPage"": 2, ""totalTime"": 724}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T16:04:01.687Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T16:04:16.137Z,podium,"{""timeOnPage"": 14, ""totalTime"": 738}"
+session_1763562864402_sad656gok,time_update,2025-11-19T16:04:46.136Z,podium,"{""timeOnPage"": 30, ""totalTime"": 768}"
+session_1763562864402_sad656gok,time_update,2025-11-19T16:05:40.132Z,podium,"{""timeOnPage"": 54, ""totalTime"": 822}"
+session_1763562864402_sad656gok,time_update,2025-11-19T16:06:40.131Z,podium,"{""timeOnPage"": 60, ""totalTime"": 882}"
+session_1763562864402_sad656gok,time_update,2025-11-19T16:07:40.163Z,podium,"{""timeOnPage"": 60, ""totalTime"": 942}"
+session_1763562864402_sad656gok,time_update,2025-11-19T16:08:40.131Z,podium,"{""timeOnPage"": 60, ""totalTime"": 1002}"
+session_1763562864402_sad656gok,time_update,2025-11-19T16:09:40.131Z,podium,"{""timeOnPage"": 60, ""totalTime"": 1062}"
+session_1763562864402_sad656gok,time_update,2025-11-19T16:10:40.140Z,podium,"{""timeOnPage"": 60, ""totalTime"": 1122}"
+session_1763562864402_sad656gok,time_update,2025-11-19T16:11:40.133Z,podium,"{""timeOnPage"": 60, ""totalTime"": 1182}"
+session_1763562864402_sad656gok,time_update,2025-11-19T16:12:40.141Z,podium,"{""timeOnPage"": 60, ""totalTime"": 1242}"
+session_1763562864402_sad656gok,time_update,2025-11-19T16:13:40.134Z,podium,"{""timeOnPage"": 60, ""totalTime"": 1302}"
+session_1763562864402_sad656gok,time_update,2025-11-19T16:14:40.138Z,podium,"{""timeOnPage"": 60, ""totalTime"": 1362}"
+session_1763562864402_sad656gok,time_update,2025-11-19T16:15:40.131Z,podium,"{""timeOnPage"": 60, ""totalTime"": 1422}"
+session_1763562864402_sad656gok,time_update,2025-11-19T16:16:40.133Z,podium,"{""timeOnPage"": 60, ""totalTime"": 1482}"
+session_1763562864402_sad656gok,time_update,2025-11-19T16:17:40.140Z,podium,"{""timeOnPage"": 60, ""totalTime"": 1542}"
+session_1763562864402_sad656gok,time_update,2025-11-19T16:18:40.137Z,podium,"{""timeOnPage"": 60, ""totalTime"": 1602}"
+session_1763562864402_sad656gok,time_update,2025-11-19T16:19:40.164Z,podium,"{""timeOnPage"": 60, ""totalTime"": 1662}"
+session_1763562864402_sad656gok,time_update,2025-11-19T16:20:40.129Z,podium,"{""timeOnPage"": 60, ""totalTime"": 1722}"
+session_1763562864402_sad656gok,time_update,2025-11-19T16:21:40.127Z,podium,"{""timeOnPage"": 60, ""totalTime"": 1782}"
+session_1763562864402_sad656gok,time_update,2025-11-19T16:22:40.130Z,podium,"{""timeOnPage"": 60, ""totalTime"": 1842}"
+session_1763562864402_sad656gok,time_update,2025-11-19T16:23:40.135Z,podium,"{""timeOnPage"": 60, ""totalTime"": 1902}"
+session_1763562864402_sad656gok,time_update,2025-11-19T16:24:40.139Z,podium,"{""timeOnPage"": 60, ""totalTime"": 1962}"
+session_1763562864402_sad656gok,time_update,2025-11-19T16:54:40.130Z,podium,"{""timeOnPage"": 60, ""totalTime"": 3762}"
+session_1763562864402_sad656gok,time_update,2025-11-19T16:55:40.138Z,podium,"{""timeOnPage"": 60, ""totalTime"": 3822}"
+session_1763562864402_sad656gok,time_update,2025-11-19T16:56:40.142Z,podium,"{""timeOnPage"": 60, ""totalTime"": 3882}"
+session_1763562864402_sad656gok,time_update,2025-11-19T16:57:40.130Z,podium,"{""timeOnPage"": 60, ""totalTime"": 3942}"
+session_1763562864402_sad656gok,time_update,2025-11-19T16:58:40.131Z,podium,"{""timeOnPage"": 60, ""totalTime"": 4002}"
+session_1763562864402_sad656gok,time_update,2025-11-19T16:59:40.133Z,podium,"{""timeOnPage"": 60, ""totalTime"": 4062}"
+session_1763562864402_sad656gok,time_update,2025-11-19T17:00:40.134Z,podium,"{""timeOnPage"": 60, ""totalTime"": 4122}"
+session_1763562864402_sad656gok,time_update,2025-11-19T17:01:40.139Z,podium,"{""timeOnPage"": 60, ""totalTime"": 4182}"
+session_1763562864402_sad656gok,time_update,2025-11-19T17:02:40.132Z,podium,"{""timeOnPage"": 60, ""totalTime"": 4242}"
+session_1763562864402_sad656gok,time_update,2025-11-19T17:03:40.130Z,podium,"{""timeOnPage"": 60, ""totalTime"": 4302}"
+session_1763562864402_sad656gok,time_update,2025-11-19T17:04:40.128Z,podium,"{""timeOnPage"": 60, ""totalTime"": 4362}"
+session_1763562864402_sad656gok,time_update,2025-11-19T17:05:40.128Z,podium,"{""timeOnPage"": 60, ""totalTime"": 4422}"
+session_1763562864402_sad656gok,time_update,2025-11-19T17:06:40.140Z,podium,"{""timeOnPage"": 60, ""totalTime"": 4482}"
+session_1763562864402_sad656gok,time_update,2025-11-19T17:07:40.140Z,podium,"{""timeOnPage"": 60, ""totalTime"": 4542}"
+session_1763562864402_sad656gok,time_update,2025-11-19T17:08:40.140Z,podium,"{""timeOnPage"": 60, ""totalTime"": 4602}"
+session_1763562864402_sad656gok,time_update,2025-11-19T17:09:40.133Z,podium,"{""timeOnPage"": 60, ""totalTime"": 4662}"
+session_1763562864402_sad656gok,time_update,2025-11-19T17:10:40.135Z,podium,"{""timeOnPage"": 60, ""totalTime"": 4722}"
+session_1763562864402_sad656gok,time_update,2025-11-19T17:11:40.134Z,podium,"{""timeOnPage"": 60, ""totalTime"": 4782}"
+session_1763562864402_sad656gok,time_update,2025-11-19T17:12:40.126Z,podium,"{""timeOnPage"": 60, ""totalTime"": 4842}"
+session_1763562864402_sad656gok,time_update,2025-11-19T17:13:40.129Z,podium,"{""timeOnPage"": 60, ""totalTime"": 4902}"
+session_1763562864402_sad656gok,time_update,2025-11-19T17:14:40.141Z,podium,"{""timeOnPage"": 60, ""totalTime"": 4962}"
+session_1763562864402_sad656gok,time_update,2025-11-19T17:15:40.135Z,podium,"{""timeOnPage"": 60, ""totalTime"": 5022}"
+session_1763562864402_sad656gok,time_update,2025-11-19T17:16:40.137Z,podium,"{""timeOnPage"": 60, ""totalTime"": 5082}"
+session_1763562864402_sad656gok,time_update,2025-11-19T17:17:40.141Z,podium,"{""timeOnPage"": 60, ""totalTime"": 5142}"
+session_1763562864402_sad656gok,time_update,2025-11-19T17:18:40.132Z,podium,"{""timeOnPage"": 60, ""totalTime"": 5202}"
+session_1763562864402_sad656gok,time_update,2025-11-19T17:19:40.135Z,podium,"{""timeOnPage"": 60, ""totalTime"": 5262}"
+session_1763562864402_sad656gok,time_update,2025-11-19T17:20:40.132Z,podium,"{""timeOnPage"": 60, ""totalTime"": 5322}"
+session_1763562864402_sad656gok,time_update,2025-11-19T17:21:40.140Z,podium,"{""timeOnPage"": 60, ""totalTime"": 5382}"
+session_1763562864402_sad656gok,time_update,2025-11-19T17:22:40.133Z,podium,"{""timeOnPage"": 60, ""totalTime"": 5442}"
+session_1763562864402_sad656gok,time_update,2025-11-19T17:23:40.141Z,podium,"{""timeOnPage"": 60, ""totalTime"": 5502}"
+session_1763562864402_sad656gok,time_update,2025-11-19T17:24:40.127Z,podium,"{""timeOnPage"": 60, ""totalTime"": 5562}"
+session_1763562864402_sad656gok,time_update,2025-11-19T17:25:40.134Z,podium,"{""timeOnPage"": 60, ""totalTime"": 5622}"
+session_1763562864402_sad656gok,time_update,2025-11-19T17:26:40.139Z,podium,"{""timeOnPage"": 60, ""totalTime"": 5682}"
+session_1763562864402_sad656gok,time_update,2025-11-19T17:27:40.129Z,podium,"{""timeOnPage"": 60, ""totalTime"": 5742}"
+session_1763562864402_sad656gok,time_update,2025-11-19T17:28:40.131Z,podium,"{""timeOnPage"": 60, ""totalTime"": 5802}"
+session_1763562864402_sad656gok,time_update,2025-11-19T17:29:40.126Z,podium,"{""timeOnPage"": 60, ""totalTime"": 5862}"
+session_1763562864402_sad656gok,time_update,2025-11-19T17:30:40.136Z,podium,"{""timeOnPage"": 60, ""totalTime"": 5922}"
+session_1763562864402_sad656gok,time_update,2025-11-19T17:31:40.133Z,podium,"{""timeOnPage"": 60, ""totalTime"": 5982}"
+session_1763562864402_sad656gok,time_update,2025-11-19T17:32:40.136Z,podium,"{""timeOnPage"": 60, ""totalTime"": 6042}"
+session_1763562864402_sad656gok,time_update,2025-11-19T17:33:40.136Z,podium,"{""timeOnPage"": 60, ""totalTime"": 6102}"
+session_1763562864402_sad656gok,time_update,2025-11-19T17:34:40.134Z,podium,"{""timeOnPage"": 60, ""totalTime"": 6162}"
+session_1763562864402_sad656gok,time_update,2025-11-19T17:35:40.127Z,podium,"{""timeOnPage"": 60, ""totalTime"": 6222}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T17:36:16.257Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T17:36:16.263Z,podium,"{""timeOnPage"": 0, ""totalTime"": 6222}"
+session_1763562864402_sad656gok,button_click,2025-11-19T17:36:20.918Z,podium,"{""text"": ""Confirma"", ""id"": ""confirm"", ""classes"": ""primary""}"
+session_1763562864402_sad656gok,button_click,2025-11-19T17:36:22.558Z,podium,"{""text"": ""Ranking completo"", ""id"": ""btnRanking"", ""classes"": ""ghost""}"
+session_1763562864402_sad656gok,button_click,2025-11-19T17:36:22.597Z,podium,"{""text"": ""Ranking completo"", ""id"": ""btnRanking"", ""classes"": ""ghost""}"
+session_1763562864402_sad656gok,session_end,2025-11-19T17:36:26.531Z,podium,"{""totalDuration"": 6232, ""totalEvents"": 575}"
+session_1763562864402_sad656gok,time_update,2025-11-19T17:36:26.530Z,podium,"{""timeOnPage"": 10, ""totalTime"": 6232}"
+session_1763562864402_sad656gok,page_view,2025-11-19T17:36:39.439Z,podium,"{""page"": ""input""}"
+session_1763562864402_sad656gok,location_updated,2025-11-19T17:36:53.860Z,podium,"{""ip"": ""2602:fb54:7fe::"", ""location"": {""city"": ""New York City"", ""region"": ""New York"", ""country"": ""United States"", ""country_code"": ""US"", ""latitude"": 40.7143, ""longitude"": -74.006, ""timezone"": ""America/New_York""}}"
+session_1763562864402_sad656gok,time_update,2025-11-19T17:37:10.130Z,podium,"{""timeOnPage"": 31, ""totalTime"": 31}"
+session_1763562864402_sad656gok,time_update,2025-11-19T17:37:40.130Z,podium,"{""timeOnPage"": 30, ""totalTime"": 61}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T17:38:00.060Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T17:38:00.209Z,podium,"{""timeOnPage"": 0, ""totalTime"": 61}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T17:38:00.212Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T17:38:10.130Z,podium,"{""timeOnPage"": 10, ""totalTime"": 71}"
+session_1763562864402_sad656gok,time_update,2025-11-19T17:38:40.134Z,podium,"{""timeOnPage"": 30, ""totalTime"": 101}"
+session_1763562864402_sad656gok,page_view,2025-11-19T19:07:31.249Z,podium,"{""page"": ""input""}"
+session_1763562864402_sad656gok,location_updated,2025-11-19T19:07:32.512Z,podium,"{""ip"": ""2602:fb54:7fe::"", ""location"": {""city"": ""New York City"", ""region"": ""New York"", ""country"": ""United States"", ""country_code"": ""US"", ""latitude"": 40.7143, ""longitude"": -74.006, ""timezone"": ""America/New_York""}}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T19:07:56.594Z,podium,{}
+session_1763562864402_sad656gok,input_focus,2025-11-19T19:07:59.451Z,podium,"{""id"": ""r"", ""value"": """"}"
+session_1763562864402_sad656gok,priority_change,2025-11-19T19:08:00.332Z,podium,"{""field"": ""r"", ""value"": 0}"
+session_1763562864402_sad656gok,input_focus,2025-11-19T19:08:00.426Z,podium,"{""id"": ""r"", ""value"": ""0""}"
+session_1763562864402_sad656gok,time_update,2025-11-19T19:08:01.252Z,podium,"{""timeOnPage"": 5, ""totalTime"": 5}"
+session_1763562864402_sad656gok,priority_change,2025-11-19T19:08:02.316Z,podium,"{""field"": ""r"", ""value"": 0.5}"
+session_1763562864402_sad656gok,input_focus,2025-11-19T19:08:02.578Z,podium,"{""id"": ""r"", ""value"": ""1""}"
+session_1763562864402_sad656gok,input_focus,2025-11-19T19:08:02.410Z,podium,"{""id"": ""r"", ""value"": ""0.5""}"
+session_1763562864402_sad656gok,priority_change,2025-11-19T19:08:02.524Z,podium,"{""field"": ""r"", ""value"": 1}"
+session_1763562864402_sad656gok,priority_change,2025-11-19T19:08:02.683Z,podium,"{""field"": ""r"", ""value"": 1.5}"
+session_1763562864402_sad656gok,input_focus,2025-11-19T19:08:04.034Z,podium,"{""id"": ""g"", ""value"": ""0.5""}"
+session_1763562864402_sad656gok,input_focus,2025-11-19T19:08:02.763Z,podium,"{""id"": ""r"", ""value"": ""1.5""}"
+session_1763562864402_sad656gok,priority_change,2025-11-19T19:08:02.851Z,podium,"{""field"": ""r"", ""value"": 2}"
+session_1763562864402_sad656gok,input_focus,2025-11-19T19:08:02.914Z,podium,"{""id"": ""r"", ""value"": ""2""}"
+session_1763562864402_sad656gok,priority_change,2025-11-19T19:08:03.961Z,podium,"{""field"": ""g"", ""value"": 0.5}"
+session_1763562864402_sad656gok,priority_change,2025-11-19T19:08:05.437Z,podium,"{""field"": ""b"", ""value"": 0}"
+session_1763562864402_sad656gok,input_focus,2025-11-19T19:08:05.554Z,podium,"{""id"": ""b"", ""value"": ""0""}"
+session_1763562864402_sad656gok,input_focus,2025-11-19T19:08:05.707Z,podium,"{""id"": ""b"", ""value"": ""0""}"
+session_1763562864402_sad656gok,input_focus,2025-11-19T19:08:05.866Z,podium,"{""id"": ""b"", ""value"": ""0""}"
+session_1763562864402_sad656gok,input_focus,2025-11-19T19:08:06.050Z,podium,"{""id"": ""b"", ""value"": ""0""}"
+session_1763562864402_sad656gok,input_focus,2025-11-19T19:08:06.346Z,podium,"{""id"": ""b"", ""value"": ""0""}"
+session_1763562864402_sad656gok,input_focus,2025-11-19T19:08:06.507Z,podium,"{""id"": ""b"", ""value"": ""0""}"
+session_1763562864402_sad656gok,input_focus,2025-11-19T19:08:06.762Z,podium,"{""id"": ""b"", ""value"": ""0""}"
+session_1763562864402_sad656gok,priority_change,2025-11-19T19:08:07.252Z,podium,"{""field"": ""b"", ""value"": 0.5}"
+session_1763562864402_sad656gok,input_focus,2025-11-19T19:08:06.934Z,podium,"{""id"": ""b"", ""value"": ""0""}"
+session_1763562864402_sad656gok,input_focus,2025-11-19T19:08:07.330Z,podium,"{""id"": ""b"", ""value"": ""0.5""}"
+session_1763562864402_sad656gok,priority_change,2025-11-19T19:08:07.419Z,podium,"{""field"": ""b"", ""value"": 1}"
+session_1763562864402_sad656gok,input_focus,2025-11-19T19:08:07.490Z,podium,"{""id"": ""b"", ""value"": ""1""}"
+session_1763562864402_sad656gok,priority_change,2025-11-19T19:08:07.572Z,podium,"{""field"": ""b"", ""value"": 1.5}"
+session_1763562864402_sad656gok,input_focus,2025-11-19T19:08:07.634Z,podium,"{""id"": ""b"", ""value"": ""1.5""}"
+session_1763562864402_sad656gok,priority_change,2025-11-19T19:08:07.731Z,podium,"{""field"": ""b"", ""value"": 2}"
+session_1763562864402_sad656gok,input_focus,2025-11-19T19:08:07.770Z,podium,"{""id"": ""b"", ""value"": ""2""}"
+session_1763562864402_sad656gok,priority_change,2025-11-19T19:08:07.867Z,podium,"{""field"": ""b"", ""value"": 2.5}"
+session_1763562864402_sad656gok,input_focus,2025-11-19T19:08:07.923Z,podium,"{""id"": ""b"", ""value"": ""2.5""}"
+session_1763562864402_sad656gok,input_focus,2025-11-19T19:08:08.491Z,podium,"{""id"": ""b"", ""value"": ""2.5""}"
+session_1763562864402_sad656gok,input_focus,2025-11-19T19:08:09.115Z,podium,"{""id"": ""b"", ""value"": ""2.5""}"
+session_1763562864402_sad656gok,input_focus,2025-11-19T19:08:09.306Z,podium,"{""id"": ""b"", ""value"": ""2.5""}"
+session_1763562864402_sad656gok,input_focus,2025-11-19T19:08:09.499Z,podium,"{""id"": ""b"", ""value"": ""2.5""}"
+session_1763562864402_sad656gok,input_focus,2025-11-19T19:08:09.690Z,podium,"{""id"": ""b"", ""value"": ""2.5""}"
+session_1763562864402_sad656gok,button_click,2025-11-19T19:08:11.290Z,podium,"{""text"": ""Confirma"", ""id"": ""confirm"", ""classes"": ""primary""}"
+session_1763562864402_sad656gok,button_click,2025-11-19T19:08:12.450Z,podium,"{""text"": ""Ranking completo"", ""id"": ""btnRanking"", ""classes"": ""ghost""}"
+session_1763562864402_sad656gok,triangle_interaction,2025-11-19T19:08:23.059Z,podium,"{""element"": ""canvas""}"
+session_1763562864402_sad656gok,triangle_interaction,2025-11-19T19:08:23.490Z,podium,"{""element"": ""canvas""}"
+session_1763562864402_sad656gok,triangle_interaction,2025-11-19T19:08:23.730Z,podium,"{""element"": ""canvas""}"
+session_1763562864402_sad656gok,button_click,2025-11-19T19:08:24.594Z,podium,"{""text"": ""Ranking completo"", ""id"": ""btnRanking"", ""classes"": ""ghost""}"
+session_1763562864402_sad656gok,button_click,2025-11-19T19:08:24.754Z,podium,"{""text"": ""Ranking completo"", ""id"": ""btnRanking"", ""classes"": ""ghost""}"
+session_1763562864402_sad656gok,button_click,2025-11-19T19:08:24.915Z,podium,"{""text"": ""Ranking completo"", ""id"": ""btnRanking"", ""classes"": ""ghost""}"
+session_1763562864402_sad656gok,button_click,2025-11-19T19:08:25.074Z,podium,"{""text"": ""Ranking completo"", ""id"": ""btnRanking"", ""classes"": ""ghost""}"
+session_1763562864402_sad656gok,time_update,2025-11-19T19:08:25.366Z,podium,"{""timeOnPage"": 24, ""totalTime"": 29}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T19:08:25.369Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:08:32.134Z,podium,"{""timeOnPage"": 7, ""totalTime"": 36}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T19:08:40.702Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:08:42.717Z,podium,"{""timeOnPage"": 2, ""totalTime"": 38}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T19:08:42.723Z,podium,{}
+session_1763562864402_sad656gok,page_visible,2025-11-19T19:08:48.641Z,podium,{}
+session_1763562864402_sad656gok,button_click,2025-11-19T19:08:53.595Z,podium,"{""text"": ""Confirma"", ""id"": ""confirm"", ""classes"": ""primary""}"
+session_1763562864402_sad656gok,time_update,2025-11-19T19:08:54.131Z,podium,"{""timeOnPage"": 5, ""totalTime"": 43}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T19:08:54.143Z,podium,{}
+session_1763562864402_sad656gok,page_visible,2025-11-19T19:08:59.361Z,podium,{}
+session_1763562864402_sad656gok,button_click,2025-11-19T19:09:01.002Z,podium,"{""text"": ""Ranking completo"", ""id"": ""btnRanking"", ""classes"": ""ghost""}"
+session_1763562864402_sad656gok,time_update,2025-11-19T19:09:01.260Z,podium,"{""timeOnPage"": 2, ""totalTime"": 45}"
+session_1763562864402_sad656gok,time_update,2025-11-19T19:09:02.345Z,podium,"{""timeOnPage"": 1, ""totalTime"": 46}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T19:09:02.349Z,podium,{}
+session_1763562864402_sad656gok,page_visible,2025-11-19T19:09:03.333Z,podium,{}
+session_1763562864402_sad656gok,scroll_depth,2025-11-19T19:09:03.994Z,podium,"{""depth"": 100}"
+session_1763562864402_sad656gok,triangle_interaction,2025-11-19T19:09:05.530Z,podium,"{""element"": ""canvas""}"
+session_1763562864402_sad656gok,time_update,2025-11-19T19:09:05.967Z,podium,"{""timeOnPage"": 3, ""totalTime"": 49}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T19:09:08.581Z,podium,{}
+session_1763562864402_sad656gok,page_hidden,2025-11-19T19:09:05.970Z,podium,{}
+session_1763562864402_sad656gok,triangle_interaction,2025-11-19T19:09:09.739Z,podium,"{""element"": ""canvas""}"
+session_1763562864402_sad656gok,time_update,2025-11-19T19:09:10.082Z,podium,"{""timeOnPage"": 2, ""totalTime"": 50}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T19:09:10.086Z,podium,{}
+session_1763562864402_sad656gok,page_visible,2025-11-19T19:09:11.013Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:09:14.341Z,podium,"{""timeOnPage"": 3, ""totalTime"": 53}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T19:09:14.345Z,podium,{}
+session_1763562864402_sad656gok,page_visible,2025-11-19T19:09:24.365Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:09:25.316Z,podium,"{""timeOnPage"": 1, ""totalTime"": 54}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T19:09:25.319Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:09:32.130Z,podium,"{""timeOnPage"": 7, ""totalTime"": 61}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T19:09:50.105Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:09:50.148Z,podium,"{""timeOnPage"": 0, ""totalTime"": 61}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T19:09:50.174Z,podium,{}
+session_1763562864402_sad656gok,page_visible,2025-11-19T19:09:50.246Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:09:51.791Z,podium,"{""timeOnPage"": 2, ""totalTime"": 63}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T19:09:51.793Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:10:02.139Z,podium,"{""timeOnPage"": 10, ""totalTime"": 73}"
+session_1763562864402_sad656gok,time_update,2025-11-19T19:10:32.134Z,podium,"{""timeOnPage"": 30, ""totalTime"": 103}"
+session_1763562864402_sad656gok,time_update,2025-11-19T19:11:40.141Z,podium,"{""timeOnPage"": 68, ""totalTime"": 171}"
+session_1763562864402_sad656gok,time_update,2025-11-19T19:12:40.139Z,podium,"{""timeOnPage"": 60, ""totalTime"": 231}"
+session_1763562864402_sad656gok,time_update,2025-11-19T19:13:40.128Z,podium,"{""timeOnPage"": 60, ""totalTime"": 291}"
+session_1763562864402_sad656gok,time_update,2025-11-19T19:14:40.129Z,podium,"{""timeOnPage"": 60, ""totalTime"": 351}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T19:15:39.527Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:15:39.530Z,podium,"{""timeOnPage"": 0, ""totalTime"": 351}"
+session_1763562864402_sad656gok,time_update,2025-11-19T19:15:40.170Z,podium,"{""timeOnPage"": 1, ""totalTime"": 352}"
+session_1763562864402_sad656gok,session_end,2025-11-19T19:15:40.172Z,podium,"{""totalDuration"": 352, ""totalEvents"": 800}"
+session_1763562864402_sad656gok,time_update,2025-11-19T19:15:40.188Z,podium,"{""timeOnPage"": 0, ""totalTime"": 352}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T19:15:40.189Z,podium,{}
+session_1763562864402_sad656gok,page_view,2025-11-19T19:16:59.560Z,podium,"{""page"": ""input""}"
+session_1763562864402_sad656gok,location_updated,2025-11-19T19:17:03.085Z,podium,"{""ip"": ""2602:fb54:7fe::"", ""location"": {""city"": ""New York City"", ""region"": ""New York"", ""country"": ""United States"", ""country_code"": ""US"", ""latitude"": 40.7143, ""longitude"": -74.006, ""timezone"": ""America/New_York""}}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T19:17:13.824Z,podium,{}
+session_1763562864402_sad656gok,priority_change,2025-11-19T19:17:17.496Z,podium,"{""field"": ""r"", ""value"": 0.5}"
+session_1763562864402_sad656gok,input_focus,2025-11-19T19:17:17.529Z,podium,"{""id"": ""r"", ""value"": ""0.5""}"
+session_1763562864402_sad656gok,priority_change,2025-11-19T19:17:18.532Z,podium,"{""field"": ""g"", ""value"": 0.5}"
+session_1763562864402_sad656gok,input_focus,2025-11-19T19:17:19.681Z,podium,"{""id"": ""b"", ""value"": ""0.5""}"
+session_1763562864402_sad656gok,input_focus,2025-11-19T19:17:18.626Z,podium,"{""id"": ""g"", ""value"": ""0.5""}"
+session_1763562864402_sad656gok,priority_change,2025-11-19T19:17:19.611Z,podium,"{""field"": ""b"", ""value"": 0.5}"
+session_1763562864402_sad656gok,priority_change,2025-11-19T19:17:19.949Z,podium,"{""field"": ""b"", ""value"": 1}"
+session_1763562864402_sad656gok,input_focus,2025-11-19T19:17:20.009Z,podium,"{""id"": ""b"", ""value"": ""1""}"
+session_1763562864402_sad656gok,button_click,2025-11-19T19:17:25.553Z,podium,"{""text"": ""Confirma"", ""id"": ""confirm"", ""classes"": ""primary""}"
+session_1763562864402_sad656gok,button_click,2025-11-19T19:17:25.682Z,podium,"{""text"": ""Confirma"", ""id"": ""confirm"", ""classes"": ""primary""}"
+session_1763562864402_sad656gok,button_click,2025-11-19T19:17:20.569Z,podium,"{""text"": ""Confirma"", ""id"": ""confirm"", ""classes"": ""primary""}"
+session_1763562864402_sad656gok,button_click,2025-11-19T19:17:22.041Z,podium,"{""text"": ""Ranking completo"", ""id"": ""btnRanking"", ""classes"": ""ghost""}"
+session_1763562864402_sad656gok,button_click,2025-11-19T19:17:26.433Z,podium,"{""text"": ""Ranking completo"", ""id"": ""btnRanking"", ""classes"": ""ghost""}"
+session_1763562864402_sad656gok,button_click,2025-11-19T19:17:26.578Z,podium,"{""text"": ""Ranking completo"", ""id"": ""btnRanking"", ""classes"": ""ghost""}"
+session_1763562864402_sad656gok,time_update,2025-11-19T19:17:28.874Z,podium,"{""timeOnPage"": 15, ""totalTime"": 15}"
+session_1763562864402_sad656gok,time_update,2025-11-19T19:17:30.139Z,podium,"{""timeOnPage"": 1, ""totalTime"": 16}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T19:17:28.876Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:18:00.139Z,podium,"{""timeOnPage"": 30, ""totalTime"": 46}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T19:18:07.950Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:18:08.467Z,podium,"{""timeOnPage"": 1, ""totalTime"": 47}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T19:18:08.482Z,podium,{}
+session_1763562864402_sad656gok,page_visible,2025-11-19T19:18:17.186Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:18:17.368Z,podium,"{""timeOnPage"": 0, ""totalTime"": 47}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T19:18:17.372Z,podium,{}
+session_1763562864402_sad656gok,page_visible,2025-11-19T19:18:25.996Z,podium,{}
+session_1763562864402_sad656gok,page_hidden,2025-11-19T19:18:27.265Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:18:27.259Z,podium,"{""timeOnPage"": 1, ""totalTime"": 48}"
+session_1763562864402_sad656gok,time_update,2025-11-19T19:18:30.872Z,podium,"{""timeOnPage"": 1, ""totalTime"": 50}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T19:18:30.878Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:18:29.568Z,podium,"{""timeOnPage"": 0, ""totalTime"": 49}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T19:18:29.134Z,podium,{}
+session_1763562864402_sad656gok,page_visible,2025-11-19T19:18:42.879Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:18:43.884Z,podium,"{""timeOnPage"": 1, ""totalTime"": 51}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T19:18:43.888Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:19:00.138Z,podium,"{""timeOnPage"": 16, ""totalTime"": 67}"
+session_1763562864402_sad656gok,time_update,2025-11-19T19:19:30.136Z,podium,"{""timeOnPage"": 30, ""totalTime"": 97}"
+session_1763562864402_sad656gok,time_update,2025-11-19T19:20:00.138Z,podium,"{""timeOnPage"": 30, ""totalTime"": 127}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T19:20:35.610Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:20:35.613Z,podium,"{""timeOnPage"": 0, ""totalTime"": 127}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T19:20:43.463Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:20:43.461Z,podium,"{""timeOnPage"": 8, ""totalTime"": 135}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T19:20:51.512Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:20:53.629Z,podium,"{""timeOnPage"": 2, ""totalTime"": 137}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T19:20:53.630Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:21:00.135Z,podium,"{""timeOnPage"": 7, ""totalTime"": 144}"
+session_1763562864402_sad656gok,time_update,2025-11-19T19:21:30.140Z,podium,"{""timeOnPage"": 30, ""totalTime"": 174}"
+session_1763562864402_sad656gok,time_update,2025-11-19T19:22:40.131Z,podium,"{""timeOnPage"": 70, ""totalTime"": 244}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T19:23:10.801Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:23:10.805Z,podium,"{""timeOnPage"": 0, ""totalTime"": 244}"
+session_1763562864402_sad656gok,time_update,2025-11-19T19:23:12.299Z,podium,"{""timeOnPage"": 1, ""totalTime"": 245}"
+session_1763562864402_sad656gok,time_update,2025-11-19T19:23:13.733Z,podium,"{""timeOnPage"": 1, ""totalTime"": 247}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T19:23:13.740Z,podium,{}
+session_1763562864402_sad656gok,session_end,2025-11-19T19:23:12.301Z,podium,"{""totalDuration"": 245, ""totalEvents"": 855}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T19:23:15.958Z,podium,{}
+session_1763562864402_sad656gok,page_visible,2025-11-19T19:23:19.996Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:23:22.884Z,podium,"{""timeOnPage"": 3, ""totalTime"": 253}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T19:23:26.446Z,podium,{}
+session_1763562864402_sad656gok,page_view,2025-11-19T19:23:59.948Z,podium,"{""page"": ""input""}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T19:24:07.102Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:24:09.364Z,podium,"{""timeOnPage"": 2, ""totalTime"": 2}"
+session_1763562864402_sad656gok,location_updated,2025-11-19T19:24:11.816Z,podium,"{""ip"": ""2602:fb54:7fe::"", ""location"": {""city"": ""New York City"", ""region"": ""New York"", ""country"": ""United States"", ""country_code"": ""US"", ""latitude"": 40.7143, ""longitude"": -74.006, ""timezone"": ""America/New_York""}}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T19:24:09.367Z,podium,{}
+session_1763562864402_sad656gok,page_visible,2025-11-19T19:24:10.685Z,podium,{}
+session_1763562864402_sad656gok,priority_change,2025-11-19T19:24:13.964Z,podium,"{""field"": ""r"", ""value"": 0.5}"
+session_1763562864402_sad656gok,input_focus,2025-11-19T19:24:16.096Z,podium,"{""id"": ""b"", ""value"": ""0.5""}"
+session_1763562864402_sad656gok,input_focus,2025-11-19T19:24:14.041Z,podium,"{""id"": ""r"", ""value"": ""0.5""}"
+session_1763562864402_sad656gok,priority_change,2025-11-19T19:24:15.195Z,podium,"{""field"": ""g"", ""value"": 0.5}"
+session_1763562864402_sad656gok,input_focus,2025-11-19T19:24:15.250Z,podium,"{""id"": ""g"", ""value"": ""0.5""}"
+session_1763562864402_sad656gok,priority_change,2025-11-19T19:24:16.010Z,podium,"{""field"": ""b"", ""value"": 0.5}"
+session_1763562864402_sad656gok,button_click,2025-11-19T19:24:17.280Z,podium,"{""text"": ""Confirma"", ""id"": ""confirm"", ""classes"": ""primary""}"
+session_1763562864402_sad656gok,button_click,2025-11-19T19:24:18.360Z,podium,"{""text"": ""Ranking completo"", ""id"": ""btnRanking"", ""classes"": ""ghost""}"
+session_1763562864402_sad656gok,time_update,2025-11-19T19:24:21.466Z,podium,"{""timeOnPage"": 11, ""totalTime"": 13}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T19:24:21.471Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:24:30.140Z,podium,"{""timeOnPage"": 9, ""totalTime"": 22}"
+session_1763562864402_sad656gok,time_update,2025-11-19T19:25:00.136Z,podium,"{""timeOnPage"": 30, ""totalTime"": 52}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T19:25:28.658Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:25:29.952Z,podium,"{""timeOnPage"": 1, ""totalTime"": 53}"
+session_1763562864402_sad656gok,time_update,2025-11-19T19:25:30.701Z,podium,"{""timeOnPage"": 1, ""totalTime"": 54}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T19:25:30.703Z,podium,{}
+session_1763562864402_sad656gok,page_visible,2025-11-19T19:25:33.073Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:25:35.282Z,podium,"{""timeOnPage"": 2, ""totalTime"": 56}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T19:25:35.283Z,podium,{}
+session_1763562864402_sad656gok,page_visible,2025-11-19T19:25:55.401Z,podium,{}
+session_1763562864402_sad656gok,page_hidden,2025-11-19T19:25:58.478Z,podium,{}
+session_1763562864402_sad656gok,button_click,2025-11-19T19:25:58.041Z,podium,"{""text"": ""Confirma"", ""id"": ""confirm"", ""classes"": ""primary""}"
+session_1763562864402_sad656gok,time_update,2025-11-19T19:25:58.474Z,podium,"{""timeOnPage"": 3, ""totalTime"": 59}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T19:25:59.206Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:25:59.961Z,podium,"{""timeOnPage"": 1, ""totalTime"": 60}"
+session_1763562864402_sad656gok,button_click,2025-11-19T19:26:00.248Z,podium,"{""text"": ""Ranking completo"", ""id"": ""btnRanking"", ""classes"": ""ghost""}"
+session_1763562864402_sad656gok,scroll_depth,2025-11-19T19:26:01.012Z,podium,"{""depth"": 100}"
+session_1763562864402_sad656gok,scroll_depth,2025-11-19T19:26:00.896Z,podium,"{""depth"": 50}"
+session_1763562864402_sad656gok,time_update,2025-11-19T19:26:01.333Z,podium,"{""timeOnPage"": 1, ""totalTime"": 61}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T19:26:01.338Z,podium,{}
+session_1763562864402_sad656gok,page_visible,2025-11-19T19:26:02.590Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:26:04.308Z,podium,"{""timeOnPage"": 2, ""totalTime"": 63}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T19:26:04.314Z,podium,{}
+session_1763562864402_sad656gok,page_visible,2025-11-19T19:26:31.410Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:26:31.795Z,podium,"{""timeOnPage"": 0, ""totalTime"": 89}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T19:26:31.799Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:26:30.138Z,podium,"{""timeOnPage"": 26, ""totalTime"": 89}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T19:26:34.004Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:26:35.086Z,podium,"{""timeOnPage"": 1, ""totalTime"": 90}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T19:26:35.089Z,podium,{}
+session_1763562864402_sad656gok,page_visible,2025-11-19T19:26:47.102Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:26:49.006Z,podium,"{""timeOnPage"": 2, ""totalTime"": 92}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T19:26:50.748Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:26:51.402Z,podium,"{""timeOnPage"": 1, ""totalTime"": 93}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T19:26:49.019Z,podium,{}
+session_1763562864402_sad656gok,page_hidden,2025-11-19T19:26:51.406Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:27:00.132Z,podium,"{""timeOnPage"": 9, ""totalTime"": 101}"
+session_1763562864402_sad656gok,time_update,2025-11-19T19:27:30.139Z,podium,"{""timeOnPage"": 30, ""totalTime"": 131}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T19:27:34.339Z,podium,{}
+session_1763562864402_sad656gok,page_hidden,2025-11-19T19:27:35.843Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:27:35.839Z,podium,"{""timeOnPage"": 2, ""totalTime"": 133}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T19:27:45.122Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:27:47.479Z,podium,"{""timeOnPage"": 2, ""totalTime"": 135}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T19:27:47.481Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:28:00.136Z,podium,"{""timeOnPage"": 13, ""totalTime"": 148}"
+session_1763562864402_sad656gok,time_update,2025-11-19T19:28:30.127Z,podium,"{""timeOnPage"": 30, ""totalTime"": 178}"
+session_1763562864402_sad656gok,time_update,2025-11-19T19:29:40.130Z,podium,"{""timeOnPage"": 70, ""totalTime"": 248}"
+session_1763562864402_sad656gok,time_update,2025-11-19T19:30:37.096Z,podium,"{""timeOnPage"": 0, ""totalTime"": 248}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T19:30:37.090Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:30:38.422Z,podium,"{""timeOnPage"": 1, ""totalTime"": 249}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T19:30:38.424Z,podium,{}
+session_1763562864402_sad656gok,page_visible,2025-11-19T19:30:59.329Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:30:59.768Z,podium,"{""timeOnPage"": 0, ""totalTime"": 250}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T19:30:59.770Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:31:00.132Z,podium,"{""timeOnPage"": 0, ""totalTime"": 250}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T19:31:19.536Z,podium,{}
+session_1763562864402_sad656gok,page_hidden,2025-11-19T19:31:20.026Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:31:20.024Z,podium,"{""timeOnPage"": 0, ""totalTime"": 251}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T19:31:27.885Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:31:31.325Z,podium,"{""timeOnPage"": 1, ""totalTime"": 254}"
+session_1763562864402_sad656gok,time_update,2025-11-19T19:31:29.956Z,podium,"{""timeOnPage"": 2, ""totalTime"": 253}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T19:31:31.329Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:32:00.138Z,podium,"{""timeOnPage"": 29, ""totalTime"": 283}"
+session_1763562864402_sad656gok,time_update,2025-11-19T19:32:30.139Z,podium,"{""timeOnPage"": 30, ""totalTime"": 313}"
+session_1763562864402_sad656gok,time_update,2025-11-19T19:33:40.135Z,podium,"{""timeOnPage"": 70, ""totalTime"": 383}"
+session_1763562864402_sad656gok,time_update,2025-11-19T19:34:40.137Z,podium,"{""timeOnPage"": 60, ""totalTime"": 443}"
+session_1763562864402_sad656gok,time_update,2025-11-19T19:35:40.134Z,podium,"{""timeOnPage"": 60, ""totalTime"": 503}"
+session_1763562864402_sad656gok,time_update,2025-11-19T19:36:28.960Z,podium,"{""timeOnPage"": 0, ""totalTime"": 503}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T19:36:28.956Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:36:30.692Z,podium,"{""timeOnPage"": 2, ""totalTime"": 505}"
+session_1763562864402_sad656gok,time_update,2025-11-19T19:36:34.236Z,podium,"{""timeOnPage"": 4, ""totalTime"": 508}"
+session_1763562864402_sad656gok,session_end,2025-11-19T19:36:30.694Z,podium,"{""totalDuration"": 505, ""totalEvents"": 952}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T19:36:34.238Z,podium,{}
+session_1763562864402_sad656gok,page_view,2025-11-19T19:37:14.768Z,podium,"{""page"": ""input""}"
+session_1763562864402_sad656gok,location_updated,2025-11-19T19:37:17.135Z,podium,"{""ip"": ""2602:fb54:7fe::"", ""location"": {""city"": ""New York City"", ""region"": ""New York"", ""country"": ""United States"", ""country_code"": ""US"", ""latitude"": 40.7143, ""longitude"": -74.006, ""timezone"": ""America/New_York""}}"
+session_1763562864402_sad656gok,scroll_depth,2025-11-19T19:37:41.060Z,podium,"{""depth"": 100}"
+session_1763562864402_sad656gok,time_update,2025-11-19T19:37:41.206Z,podium,"{""timeOnPage"": 0, ""totalTime"": 0}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T19:37:41.034Z,podium,{}
+session_1763562864402_sad656gok,page_hidden,2025-11-19T19:37:41.211Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:37:45.140Z,podium,"{""timeOnPage"": 4, ""totalTime"": 4}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T19:37:58.002Z,podium,{}
+session_1763562864402_sad656gok,page_hidden,2025-11-19T19:37:58.339Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:37:58.335Z,podium,"{""timeOnPage"": 0, ""totalTime"": 4}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T19:38:03.659Z,podium,{}
+session_1763562864402_sad656gok,priority_change,2025-11-19T19:38:07.313Z,podium,"{""field"": ""r"", ""value"": 0.5}"
+session_1763562864402_sad656gok,input_focus,2025-11-19T19:38:07.327Z,podium,"{""id"": ""r"", ""value"": ""0.5""}"
+session_1763562864402_sad656gok,input_focus,2025-11-19T19:38:07.390Z,podium,"{""id"": ""r"", ""value"": ""1""}"
+session_1763562864402_sad656gok,priority_change,2025-11-19T19:38:07.359Z,podium,"{""field"": ""r"", ""value"": 1}"
+session_1763562864402_sad656gok,priority_change,2025-11-19T19:38:08.537Z,podium,"{""field"": ""g"", ""value"": 0.5}"
+session_1763562864402_sad656gok,priority_change,2025-11-19T19:38:09.825Z,podium,"{""field"": ""b"", ""value"": 0.5}"
+session_1763562864402_sad656gok,input_focus,2025-11-19T19:38:08.622Z,podium,"{""id"": ""g"", ""value"": ""0.5""}"
+session_1763562864402_sad656gok,button_click,2025-11-19T19:38:11.038Z,podium,"{""text"": ""Confirma"", ""id"": ""confirm"", ""classes"": ""primary""}"
+session_1763562864402_sad656gok,input_focus,2025-11-19T19:38:09.904Z,podium,"{""id"": ""b"", ""value"": ""0.5""}"
+session_1763562864402_sad656gok,button_click,2025-11-19T19:38:14.686Z,podium,"{""text"": ""Ranking completo"", ""id"": ""btnRanking"", ""classes"": ""ghost""}"
+session_1763562864402_sad656gok,time_update,2025-11-19T19:38:18.180Z,podium,"{""timeOnPage"": 3, ""totalTime"": 19}"
+session_1763562864402_sad656gok,time_update,2025-11-19T19:38:14.770Z,podium,"{""timeOnPage"": 11, ""totalTime"": 16}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T19:38:18.183Z,podium,{}
+session_1763562864402_sad656gok,page_visible,2025-11-19T19:38:33.551Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:38:34.118Z,podium,"{""timeOnPage"": 1, ""totalTime"": 20}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T19:38:34.122Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:38:45.129Z,podium,"{""timeOnPage"": 11, ""totalTime"": 31}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T19:38:52.399Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:38:54.911Z,podium,"{""timeOnPage"": 3, ""totalTime"": 33}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T19:38:54.914Z,podium,{}
+session_1763562864402_sad656gok,page_visible,2025-11-19T19:38:55.716Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:38:58.944Z,podium,"{""timeOnPage"": 3, ""totalTime"": 36}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T19:38:58.947Z,podium,{}
+session_1763562864402_sad656gok,page_visible,2025-11-19T19:39:04.451Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:39:06.211Z,podium,"{""timeOnPage"": 2, ""totalTime"": 38}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T19:39:06.213Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:39:15.129Z,podium,"{""timeOnPage"": 9, ""totalTime"": 47}"
+session_1763562864402_sad656gok,time_update,2025-11-19T19:39:45.132Z,podium,"{""timeOnPage"": 30, ""totalTime"": 77}"
+session_1763562864402_sad656gok,time_update,2025-11-19T19:40:15.132Z,podium,"{""timeOnPage"": 30, ""totalTime"": 107}"
+session_1763562864402_sad656gok,time_update,2025-11-19T19:41:35.227Z,podium,"{""timeOnPage"": 0, ""totalTime"": 107}"
+session_1763562864402_sad656gok,page_visible,2025-11-19T19:41:35.221Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:41:36.087Z,podium,"{""timeOnPage"": 1, ""totalTime"": 108}"
+session_1763562864402_sad656gok,session_end,2025-11-19T19:41:36.089Z,podium,"{""totalDuration"": 108, ""totalEvents"": 997}"
+session_1763562864402_sad656gok,page_hidden,2025-11-19T19:41:36.095Z,podium,{}
+session_1763562864402_sad656gok,time_update,2025-11-19T19:41:36.093Z,podium,"{""timeOnPage"": 0, ""totalTime"": 108}"
+session_1763581443469_v3ff8r3ee,page_view,2025-11-19T19:44:03.471Z,podium,"{""page"": ""input""}"
+session_1763581443469_v3ff8r3ee,location_updated,2025-11-19T19:44:04.217Z,podium,"{""ip"": ""2602:fb54:7fe::"", ""location"": {""city"": ""New York City"", ""region"": ""New York"", ""country"": ""United States"", ""country_code"": ""US"", ""latitude"": 40.7143, ""longitude"": -74.006, ""timezone"": ""America/New_York""}}"
+session_1763581443469_v3ff8r3ee,priority_change,2025-11-19T19:44:14.882Z,podium,"{""field"": ""r"", ""value"": 33.5}"
+session_1763581443469_v3ff8r3ee,priority_change,2025-11-19T19:44:15.233Z,podium,"{""field"": ""r"", ""value"": 34}"
+session_1763581443469_v3ff8r3ee,input_focus,2025-11-19T19:44:15.098Z,podium,"{""id"": ""r"", ""value"": ""33.50""}"
+session_1763581443469_v3ff8r3ee,input_focus,2025-11-19T19:44:15.265Z,podium,"{""id"": ""r"", ""value"": ""34.00""}"
+session_1763581443469_v3ff8r3ee,priority_change,2025-11-19T19:44:15.401Z,podium,"{""field"": ""r"", ""value"": 34.5}"
+session_1763581443469_v3ff8r3ee,input_focus,2025-11-19T19:44:15.446Z,podium,"{""id"": ""r"", ""value"": ""34.50""}"
+session_1763581443469_v3ff8r3ee,priority_change,2025-11-19T19:44:15.566Z,podium,"{""field"": ""r"", ""value"": 35}"
+session_1763581443469_v3ff8r3ee,input_focus,2025-11-19T19:44:15.598Z,podium,"{""id"": ""r"", ""value"": ""35.00""}"
+session_1763581443469_v3ff8r3ee,priority_change,2025-11-19T19:44:15.736Z,podium,"{""field"": ""r"", ""value"": 35.5}"
+session_1763581443469_v3ff8r3ee,input_focus,2025-11-19T19:44:15.766Z,podium,"{""id"": ""r"", ""value"": ""35.50""}"
+session_1763581443469_v3ff8r3ee,input_focus,2025-11-19T19:44:15.934Z,podium,"{""id"": ""r"", ""value"": ""36.00""}"
+session_1763581443469_v3ff8r3ee,priority_change,2025-11-19T19:44:15.870Z,podium,"{""field"": ""r"", ""value"": 36}"
+session_1763581443469_v3ff8r3ee,priority_change,2025-11-19T19:44:16.046Z,podium,"{""field"": ""r"", ""value"": 36.5}"
+session_1763581443469_v3ff8r3ee,input_focus,2025-11-19T19:44:16.110Z,podium,"{""id"": ""r"", ""value"": ""36.50""}"
+session_1763581443469_v3ff8r3ee,input_focus,2025-11-19T19:44:19.758Z,podium,"{""id"": ""g"", ""value"": ""49.00""}"
+session_1763581443469_v3ff8r3ee,priority_change,2025-11-19T19:44:18.616Z,podium,"{""field"": ""r"", ""value"": 2}"
+session_1763581443469_v3ff8r3ee,priority_change,2025-11-19T19:44:20.551Z,podium,"{""field"": ""g"", ""value"": 45}"
+session_1763581443469_v3ff8r3ee,priority_change,2025-11-19T19:44:22.408Z,podium,"{""field"": ""b"", ""value"": 9}"
+session_1763581443469_v3ff8r3ee,button_click,2025-11-19T19:44:27.497Z,podium,"{""text"": ""Confirma"", ""id"": ""confirm"", ""classes"": ""primary""}"
+session_1763581443469_v3ff8r3ee,button_click,2025-11-19T19:44:29.619Z,podium,"{""text"": ""Ok"", ""id"": ""dlgOk"", ""classes"": ""primary""}"
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:44:33.481Z,podium,"{""timeOnPage"": 30, ""totalTime"": 30}"
+session_1763581443469_v3ff8r3ee,scroll_depth,2025-11-19T19:44:44.515Z,podium,"{""depth"": 100}"
+session_1763581443469_v3ff8r3ee,button_click,2025-11-19T19:44:45.975Z,podium,"{""text"": ""\u00d7"", ""id"": ""closeModal"", ""classes"": ""modal-close""}"
+session_1763581443469_v3ff8r3ee,button_click,2025-11-19T19:44:47.150Z,ranking,"{""text"": ""Ranking completo"", ""id"": ""btnRanking"", ""classes"": ""ghost""}"
+session_1763581443469_v3ff8r3ee,button_click,2025-11-19T19:44:50.185Z,ranking,"{""text"": ""Gerar relat\u00f3rio"", ""id"": ""btnGenerateReport"", ""classes"": ""ghost""}"
+session_1763581443469_v3ff8r3ee,button_click,2025-11-19T19:44:51.127Z,ranking,"{""text"": ""Ok"", ""id"": ""reportConfirmOk"", ""classes"": ""primary""}"
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:44:58.610Z,ranking,"{""timeOnPage"": 25, ""totalTime"": 55}"
+session_1763581443469_v3ff8r3ee,page_hidden,2025-11-19T19:44:58.611Z,ranking,{}
+session_1763581443469_v3ff8r3ee,page_visible,2025-11-19T19:45:00.599Z,ranking,{}
+session_1763581443469_v3ff8r3ee,page_hidden,2025-11-19T19:45:03.371Z,ranking,{}
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:45:03.369Z,ranking,"{""timeOnPage"": 3, ""totalTime"": 58}"
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:45:04.139Z,ranking,"{""timeOnPage"": 1, ""totalTime"": 59}"
+session_1763581443469_v3ff8r3ee,page_visible,2025-11-19T19:45:25.922Z,ranking,{}
+session_1763581443469_v3ff8r3ee,page_hidden,2025-11-19T19:45:26.063Z,ranking,{}
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:45:26.058Z,ranking,"{""timeOnPage"": 0, ""totalTime"": 59}"
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:45:34.138Z,ranking,"{""timeOnPage"": 8, ""totalTime"": 67}"
+session_1763581443469_v3ff8r3ee,page_visible,2025-11-19T19:45:37.194Z,ranking,{}
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:45:37.609Z,ranking,"{""timeOnPage"": 0, ""totalTime"": 67}"
+session_1763581443469_v3ff8r3ee,page_hidden,2025-11-19T19:45:37.611Z,ranking,{}
+session_1763581443469_v3ff8r3ee,page_visible,2025-11-19T19:45:40.915Z,ranking,{}
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:45:41.348Z,ranking,"{""timeOnPage"": 0, ""totalTime"": 68}"
+session_1763581443469_v3ff8r3ee,page_hidden,2025-11-19T19:45:41.351Z,ranking,{}
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:46:04.129Z,ranking,"{""timeOnPage"": 23, ""totalTime"": 91}"
+session_1763581443469_v3ff8r3ee,page_visible,2025-11-19T19:46:04.184Z,ranking,{}
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:46:06.224Z,ranking,"{""timeOnPage"": 2, ""totalTime"": 93}"
+session_1763581443469_v3ff8r3ee,page_hidden,2025-11-19T19:46:06.226Z,ranking,{}
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:46:34.140Z,ranking,"{""timeOnPage"": 28, ""totalTime"": 120}"
+session_1763581443469_v3ff8r3ee,page_visible,2025-11-19T19:46:38.350Z,ranking,{}
+session_1763581443469_v3ff8r3ee,page_hidden,2025-11-19T19:46:38.974Z,ranking,{}
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:46:38.972Z,ranking,"{""timeOnPage"": 1, ""totalTime"": 121}"
+session_1763581443469_v3ff8r3ee,page_visible,2025-11-19T19:46:42.786Z,ranking,{}
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:46:43.213Z,ranking,"{""timeOnPage"": 0, ""totalTime"": 122}"
+session_1763581443469_v3ff8r3ee,page_hidden,2025-11-19T19:46:43.214Z,ranking,{}
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:47:04.131Z,ranking,"{""timeOnPage"": 21, ""totalTime"": 142}"
+session_1763581443469_v3ff8r3ee,page_visible,2025-11-19T19:47:12.670Z,ranking,{}
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:47:13.906Z,ranking,"{""timeOnPage"": 1, ""totalTime"": 144}"
+session_1763581443469_v3ff8r3ee,page_hidden,2025-11-19T19:47:13.907Z,ranking,{}
+session_1763581443469_v3ff8r3ee,page_visible,2025-11-19T19:47:17.073Z,ranking,{}
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:47:18.565Z,ranking,"{""timeOnPage"": 1, ""totalTime"": 145}"
+session_1763581443469_v3ff8r3ee,page_hidden,2025-11-19T19:47:18.568Z,ranking,{}
+session_1763581443469_v3ff8r3ee,page_visible,2025-11-19T19:47:22.002Z,ranking,{}
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:47:22.423Z,ranking,"{""timeOnPage"": 0, ""totalTime"": 146}"
+session_1763581443469_v3ff8r3ee,page_hidden,2025-11-19T19:47:22.425Z,ranking,{}
+session_1763581443469_v3ff8r3ee,page_visible,2025-11-19T19:47:24.165Z,ranking,{}
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:47:33.085Z,ranking,"{""timeOnPage"": 9, ""totalTime"": 155}"
+session_1763581443469_v3ff8r3ee,page_hidden,2025-11-19T19:47:33.087Z,ranking,{}
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:47:34.245Z,ranking,"{""timeOnPage"": 0, ""totalTime"": 156}"
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:47:34.139Z,ranking,"{""timeOnPage"": 1, ""totalTime"": 156}"
+session_1763581443469_v3ff8r3ee,page_hidden,2025-11-19T19:47:34.249Z,ranking,{}
+session_1763581443469_v3ff8r3ee,page_visible,2025-11-19T19:47:34.166Z,ranking,{}
+session_1763581443469_v3ff8r3ee,page_visible,2025-11-19T19:47:34.997Z,ranking,{}
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:48:03.470Z,ranking,"{""timeOnPage"": 28, ""totalTime"": 184}"
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:48:17.191Z,ranking,"{""timeOnPage"": 14, ""totalTime"": 198}"
+session_1763581443469_v3ff8r3ee,page_hidden,2025-11-19T19:48:17.192Z,ranking,{}
+session_1763581443469_v3ff8r3ee,page_visible,2025-11-19T19:48:19.660Z,ranking,{}
+session_1763581443469_v3ff8r3ee,page_hidden,2025-11-19T19:48:20.644Z,ranking,{}
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:48:20.643Z,ranking,"{""timeOnPage"": 1, ""totalTime"": 199}"
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:48:34.133Z,ranking,"{""timeOnPage"": 13, ""totalTime"": 212}"
+session_1763581443469_v3ff8r3ee,page_visible,2025-11-19T19:48:39.588Z,ranking,{}
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:48:40.296Z,ranking,"{""timeOnPage"": 1, ""totalTime"": 213}"
+session_1763581443469_v3ff8r3ee,page_hidden,2025-11-19T19:48:40.298Z,ranking,{}
+session_1763581443469_v3ff8r3ee,page_visible,2025-11-19T19:48:44.010Z,ranking,{}
+session_1763581443469_v3ff8r3ee,page_hidden,2025-11-19T19:48:44.388Z,ranking,{}
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:48:44.385Z,ranking,"{""timeOnPage"": 0, ""totalTime"": 213}"
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:49:04.139Z,ranking,"{""timeOnPage"": 20, ""totalTime"": 233}"
+session_1763581443469_v3ff8r3ee,page_visible,2025-11-19T19:49:18.093Z,ranking,{}
+session_1763581443469_v3ff8r3ee,page_hidden,2025-11-19T19:49:18.223Z,ranking,{}
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:49:18.221Z,ranking,"{""timeOnPage"": 0, ""totalTime"": 233}"
+session_1763581443469_v3ff8r3ee,page_visible,2025-11-19T19:49:22.755Z,ranking,{}
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:49:24.139Z,ranking,"{""timeOnPage"": 1, ""totalTime"": 235}"
+session_1763581443469_v3ff8r3ee,page_hidden,2025-11-19T19:49:24.142Z,ranking,{}
+session_1763581443469_v3ff8r3ee,page_visible,2025-11-19T19:49:32.716Z,ranking,{}
+session_1763581443469_v3ff8r3ee,page_hidden,2025-11-19T19:49:33.512Z,ranking,{}
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:49:33.483Z,ranking,"{""timeOnPage"": 1, ""totalTime"": 235}"
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:49:33.510Z,ranking,"{""timeOnPage"": 0, ""totalTime"": 235}"
+session_1763581443469_v3ff8r3ee,page_visible,2025-11-19T19:49:37.518Z,ranking,{}
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:49:37.850Z,ranking,"{""timeOnPage"": 0, ""totalTime"": 236}"
+session_1763581443469_v3ff8r3ee,page_hidden,2025-11-19T19:49:37.852Z,ranking,{}
+session_1763581443469_v3ff8r3ee,page_visible,2025-11-19T19:49:41.592Z,ranking,{}
+session_1763581443469_v3ff8r3ee,page_hidden,2025-11-19T19:49:42.086Z,ranking,{}
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:49:42.084Z,ranking,"{""timeOnPage"": 0, ""totalTime"": 236}"
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:50:04.141Z,ranking,"{""timeOnPage"": 22, ""totalTime"": 258}"
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:50:34.135Z,ranking,"{""timeOnPage"": 30, ""totalTime"": 288}"
+session_1763581443469_v3ff8r3ee,page_visible,2025-11-19T19:50:50.425Z,ranking,{}
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:50:50.821Z,ranking,"{""timeOnPage"": 0, ""totalTime"": 289}"
+session_1763581443469_v3ff8r3ee,page_hidden,2025-11-19T19:50:50.822Z,ranking,{}
+session_1763581443469_v3ff8r3ee,page_visible,2025-11-19T19:50:59.044Z,ranking,{}
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:51:00.055Z,ranking,"{""timeOnPage"": 1, ""totalTime"": 290}"
+session_1763581443469_v3ff8r3ee,page_hidden,2025-11-19T19:51:00.057Z,ranking,{}
+session_1763581443469_v3ff8r3ee,page_visible,2025-11-19T19:51:01.763Z,ranking,{}
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:51:02.374Z,ranking,"{""timeOnPage"": 1, ""totalTime"": 290}"
+session_1763581443469_v3ff8r3ee,page_hidden,2025-11-19T19:51:02.374Z,ranking,{}
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:51:04.139Z,ranking,"{""timeOnPage"": 2, ""totalTime"": 292}"
+session_1763581443469_v3ff8r3ee,page_visible,2025-11-19T19:51:19.858Z,ranking,{}
+session_1763581443469_v3ff8r3ee,page_hidden,2025-11-19T19:51:21.035Z,ranking,{}
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:51:21.034Z,ranking,"{""timeOnPage"": 1, ""totalTime"": 293}"
+session_1763581443469_v3ff8r3ee,page_visible,2025-11-19T19:51:22.226Z,ranking,{}
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:51:23.971Z,ranking,"{""timeOnPage"": 2, ""totalTime"": 295}"
+session_1763581443469_v3ff8r3ee,page_hidden,2025-11-19T19:51:23.972Z,ranking,{}
+session_1763581443469_v3ff8r3ee,page_visible,2025-11-19T19:51:25.454Z,ranking,{}
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:51:25.589Z,ranking,"{""timeOnPage"": 0, ""totalTime"": 295}"
+session_1763581443469_v3ff8r3ee,page_hidden,2025-11-19T19:51:25.590Z,ranking,{}
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:51:34.138Z,ranking,"{""timeOnPage"": 9, ""totalTime"": 304}"
+session_1763581443469_v3ff8r3ee,page_visible,2025-11-19T19:51:46.302Z,ranking,{}
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:51:47.327Z,ranking,"{""timeOnPage"": 1, ""totalTime"": 305}"
+session_1763581443469_v3ff8r3ee,page_hidden,2025-11-19T19:51:47.330Z,ranking,{}
+session_1763581443469_v3ff8r3ee,page_visible,2025-11-19T19:51:55.044Z,ranking,{}
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:51:55.379Z,ranking,"{""timeOnPage"": 0, ""totalTime"": 305}"
+session_1763581443469_v3ff8r3ee,page_hidden,2025-11-19T19:51:55.379Z,ranking,{}
+session_1763581443469_v3ff8r3ee,page_visible,2025-11-19T19:52:00.217Z,ranking,{}
+session_1763581443469_v3ff8r3ee,page_hidden,2025-11-19T19:52:00.624Z,ranking,{}
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:52:00.623Z,ranking,"{""timeOnPage"": 0, ""totalTime"": 305}"
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:52:04.135Z,ranking,"{""timeOnPage"": 4, ""totalTime"": 309}"
+session_1763581443469_v3ff8r3ee,page_visible,2025-11-19T19:52:07.279Z,ranking,{}
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:52:10.295Z,ranking,"{""timeOnPage"": 3, ""totalTime"": 312}"
+session_1763581443469_v3ff8r3ee,page_hidden,2025-11-19T19:52:10.296Z,ranking,{}
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:52:34.133Z,ranking,"{""timeOnPage"": 24, ""totalTime"": 336}"
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:53:04.134Z,ranking,"{""timeOnPage"": 30, ""totalTime"": 366}"
+session_1763581443469_v3ff8r3ee,page_visible,2025-11-19T19:53:05.264Z,ranking,{}
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:53:12.086Z,ranking,"{""timeOnPage"": 7, ""totalTime"": 373}"
+session_1763581443469_v3ff8r3ee,page_hidden,2025-11-19T19:53:12.087Z,ranking,{}
+session_1763581443469_v3ff8r3ee,page_visible,2025-11-19T19:53:22.948Z,ranking,{}
+session_1763581443469_v3ff8r3ee,page_hidden,2025-11-19T19:53:23.360Z,ranking,{}
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:53:23.359Z,ranking,"{""timeOnPage"": 0, ""totalTime"": 373}"
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:53:34.136Z,ranking,"{""timeOnPage"": 11, ""totalTime"": 384}"
+session_1763581443469_v3ff8r3ee,page_visible,2025-11-19T19:53:49.323Z,ranking,{}
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:53:50.554Z,ranking,"{""timeOnPage"": 1, ""totalTime"": 385}"
+session_1763581443469_v3ff8r3ee,page_hidden,2025-11-19T19:53:50.555Z,ranking,{}
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:54:04.127Z,ranking,"{""timeOnPage"": 14, ""totalTime"": 399}"
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:54:34.128Z,ranking,"{""timeOnPage"": 30, ""totalTime"": 429}"
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:55:35.129Z,ranking,"{""timeOnPage"": 61, ""totalTime"": 490}"
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T19:56:36.132Z,ranking,"{""timeOnPage"": 61, ""totalTime"": 551}"
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T20:01:40.131Z,ranking,"{""timeOnPage"": 60, ""totalTime"": 855}"
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T20:02:40.132Z,ranking,"{""timeOnPage"": 60, ""totalTime"": 915}"
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T20:03:40.127Z,ranking,"{""timeOnPage"": 60, ""totalTime"": 975}"
+session_1763581443469_v3ff8r3ee,time_update,2025-11-19T20:04:40.138Z,ranking,"{""timeOnPage"": 60, ""totalTime"": 1035}"
+session_1763583984925_a1lbhrenm,page_view,2025-11-19T20:26:24.927Z,podium,"{""page"": ""input""}"
+session_1763583984925_a1lbhrenm,location_updated,2025-11-19T20:26:25.790Z,podium,"{""ip"": ""2602:fb54:7fe::"", ""location"": {""city"": ""New York City"", ""region"": ""New York"", ""country"": ""United States"", ""country_code"": ""US"", ""latitude"": 40.7143, ""longitude"": -74.006, ""timezone"": ""America/New_York""}}"
+session_1763583984925_a1lbhrenm,scroll_depth,2025-11-19T20:26:30.558Z,podium,"{""depth"": 50}"
+session_1763583984925_a1lbhrenm,scroll_depth,2025-11-19T20:26:30.724Z,podium,"{""depth"": 100}"
+session_1763583984925_a1lbhrenm,time_update,2025-11-19T20:26:33.482Z,podium,"{""timeOnPage"": 9, ""totalTime"": 9}"
+session_1763583984925_a1lbhrenm,page_hidden,2025-11-19T20:26:33.483Z,podium,{}
+session_1763583984925_a1lbhrenm,page_visible,2025-11-19T20:26:43.676Z,podium,{}
+session_1763583984925_a1lbhrenm,time_update,2025-11-19T20:26:49.356Z,podium,"{""timeOnPage"": 6, ""totalTime"": 14}"
+session_1763583984925_a1lbhrenm,page_hidden,2025-11-19T20:26:49.357Z,podium,{}
+session_1763583984925_a1lbhrenm,time_update,2025-11-19T20:26:55.131Z,podium,"{""timeOnPage"": 6, ""totalTime"": 20}"
+session_1763583984925_a1lbhrenm,time_update,2025-11-19T20:27:25.139Z,podium,"{""timeOnPage"": 30, ""totalTime"": 50}"
+session_1763583984925_a1lbhrenm,page_visible,2025-11-19T20:27:39.109Z,podium,{}
+session_1763583984925_a1lbhrenm,time_update,2025-11-19T20:27:40.281Z,podium,"{""timeOnPage"": 1, ""totalTime"": 51}"
+session_1763583984925_a1lbhrenm,page_hidden,2025-11-19T20:27:40.281Z,podium,{}
+session_1763583984925_a1lbhrenm,page_visible,2025-11-19T20:27:40.985Z,podium,{}
+session_1763583984925_a1lbhrenm,time_update,2025-11-19T20:27:45.820Z,podium,"{""timeOnPage"": 5, ""totalTime"": 56}"
+session_1763583984925_a1lbhrenm,page_hidden,2025-11-19T20:27:45.820Z,podium,{}
+session_1763583984925_a1lbhrenm,time_update,2025-11-19T20:27:55.140Z,podium,"{""timeOnPage"": 9, ""totalTime"": 65}"
+session_1763583984925_a1lbhrenm,time_update,2025-11-19T20:28:25.134Z,podium,"{""timeOnPage"": 30, ""totalTime"": 95}"
+session_1763583984925_a1lbhrenm,time_update,2025-11-19T20:28:55.127Z,podium,"{""timeOnPage"": 30, ""totalTime"": 125}"
+session_1763583984925_a1lbhrenm,time_update,2025-11-19T20:29:25.131Z,podium,"{""timeOnPage"": 30, ""totalTime"": 155}"
+session_1763583984925_a1lbhrenm,time_update,2025-11-19T20:29:55.137Z,podium,"{""timeOnPage"": 30, ""totalTime"": 185}"
+session_1763583984925_a1lbhrenm,page_visible,2025-11-19T20:30:21.459Z,podium,{}
+session_1763583984925_a1lbhrenm,time_update,2025-11-19T20:30:24.927Z,podium,"{""timeOnPage"": 3, ""totalTime"": 189}"
+session_1763583984925_a1lbhrenm,time_update,2025-11-19T20:30:26.822Z,podium,"{""timeOnPage"": 2, ""totalTime"": 191}"
+session_1763583984925_a1lbhrenm,page_hidden,2025-11-19T20:30:26.824Z,podium,{}
+session_1763583984925_a1lbhrenm,page_visible,2025-11-19T20:30:44.109Z,podium,{}
+session_1763583984925_a1lbhrenm,time_update,2025-11-19T20:30:46.052Z,podium,"{""timeOnPage"": 2, ""totalTime"": 193}"
+session_1763583984925_a1lbhrenm,page_hidden,2025-11-19T20:30:46.053Z,podium,{}
+session_1763583984925_a1lbhrenm,page_visible,2025-11-19T20:30:50.462Z,podium,{}
+session_1763583984925_a1lbhrenm,time_update,2025-11-19T20:30:50.975Z,podium,"{""timeOnPage"": 1, ""totalTime"": 193}"
+session_1763583984925_a1lbhrenm,page_hidden,2025-11-19T20:30:50.976Z,podium,{}
+session_1763583984925_a1lbhrenm,time_update,2025-11-19T20:30:55.126Z,podium,"{""timeOnPage"": 4, ""totalTime"": 197}"
+session_1763583984925_a1lbhrenm,page_visible,2025-11-19T20:31:03.930Z,podium,{}
+session_1763583984925_a1lbhrenm,button_click,2025-11-19T20:31:05.843Z,podium,"{""text"": ""Confirma"", ""id"": ""confirm"", ""classes"": ""primary""}"
+session_1763583984925_a1lbhrenm,button_click,2025-11-19T20:31:06.891Z,podium,"{""text"": ""Ok"", ""id"": ""dlgOk"", ""classes"": ""primary""}"
+session_1763583984925_a1lbhrenm,button_click,2025-11-19T20:31:08.000Z,ranking,"{""text"": ""Ranking completo"", ""id"": ""btnRanking"", ""classes"": ""ghost""}"
+session_1763583984925_a1lbhrenm,button_click,2025-11-19T20:31:11.387Z,ranking,"{""text"": ""Gerar relat\u00f3rio"", ""id"": ""btnGenerateReport"", ""classes"": ""ghost""}"
+session_1763583984925_a1lbhrenm,button_click,2025-11-19T20:31:12.331Z,ranking,"{""text"": ""Ok"", ""id"": ""reportConfirmOk"", ""classes"": ""primary""}"
+session_1763583984925_a1lbhrenm,time_update,2025-11-19T20:31:19.489Z,ranking,"{""timeOnPage"": 16, ""totalTime"": 213}"
+session_1763583984925_a1lbhrenm,session_end,2025-11-19T20:31:19.490Z,ranking,"{""totalDuration"": 213, ""totalEvents"": 39}"
+session_1763583984925_a1lbhrenm,time_update,2025-11-19T20:31:19.492Z,ranking,"{""timeOnPage"": 0, ""totalTime"": 213}"
+session_1763583984925_a1lbhrenm,page_hidden,2025-11-19T20:31:19.493Z,ranking,{}
+session_1763585442316_csp8fscya,page_view,2025-11-19T20:50:42.318Z,podium,"{""page"": ""input""}"
+session_1763585442316_csp8fscya,location_updated,2025-11-19T20:50:43.157Z,podium,"{""ip"": ""2602:fb54:7fe::"", ""location"": {""city"": ""New York City"", ""region"": ""New York"", ""country"": ""United States"", ""country_code"": ""US"", ""latitude"": 40.7143, ""longitude"": -74.006, ""timezone"": ""America/New_York""}}"
+session_1763585442316_csp8fscya,page_visible,2025-11-19T20:50:50.652Z,podium,{}
+session_1763585442316_csp8fscya,time_update,2025-11-19T20:50:53.527Z,podium,"{""timeOnPage"": 3, ""totalTime"": 3}"
+session_1763585442316_csp8fscya,session_end,2025-11-19T20:50:53.527Z,podium,"{""totalDuration"": 3, ""totalEvents"": 3}"
+session_1763585442316_csp8fscya,time_update,2025-11-19T20:50:53.530Z,podium,"{""timeOnPage"": 0, ""totalTime"": 3}"

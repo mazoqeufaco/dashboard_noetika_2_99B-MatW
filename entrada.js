@@ -136,7 +136,34 @@ function detectVerticesByAlpha(img,w,h){
 
 function drawScene(ctx, canvas, img, rect, point){
   ctx.fillStyle='#000'; ctx.fillRect(0,0,canvas.width,canvas.height);
-  ctx.drawImage(img,rect.x,rect.y,rect.w,rect.h);
+  let drewImage = false;
+  if(img && img.complete && img.naturalWidth > 0){
+    try{
+      ctx.drawImage(img,rect.x,rect.y,rect.w,rect.h);
+      drewImage = true;
+    }catch(err){
+      console.warn('drawImage falhou, usando fallback do triângulo:', err);
+    }
+  }
+  if(!drewImage){
+    ctx.save();
+    ctx.translate(rect.x, rect.y);
+    ctx.beginPath();
+    ctx.moveTo(rect.w/2, 0);
+    ctx.lineTo(0, rect.h);
+    ctx.lineTo(rect.w, rect.h);
+    ctx.closePath();
+    const grad = ctx.createLinearGradient(0, rect.h, rect.w, 0);
+    grad.addColorStop(0, '#ff6b6b');     // Custo (esquerda)
+    grad.addColorStop(0.5, '#51cf66');   // Qualidade (direita)
+    grad.addColorStop(1, '#4dabf7');     // Prazo (topo)
+    ctx.fillStyle = grad;
+    ctx.fill();
+    ctx.strokeStyle = '#ffffff';
+    ctx.lineWidth = 2;
+    ctx.stroke();
+    ctx.restore();
+  }
   if(point){
     ctx.fillStyle='#fff'; ctx.strokeStyle='#000'; ctx.lineWidth=2;
     ctx.beginPath(); ctx.arc(point[0],point[1],8,0,Math.PI*2); ctx.fill(); ctx.stroke();
